@@ -4,7 +4,7 @@
             "outputFile": "com.sourcey.materiallogindemo.app-mergeReleaseResources-57:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/rml/.gradle/caches/transforms-3/49d72676b9f19c8846822948822fffc5/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/674afe18aff7e13d7bf5c0ef048dac6e/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rml/.gradle/caches/transforms-3/f0ff4d49eae2fb2d658d395d0d889a4f/transformed/play-services-auth-20.4.1/res/values-watch-v20/values.xml",
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/ab8f2983f09ee0896eaa887d1a812d61/transformed/play-services-auth-20.4.1/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

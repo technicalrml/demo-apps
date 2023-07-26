@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.academica.academic_ponpes.app-mergeDebugResources-57:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "outputFile": "com.sourcey.materiallogindemo.app-mergeDebugResources-57:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/Users/nikki/.gradle/caches/transforms-3/ea986f3861eea7990ffacb4454934d93/transformed/material-1.8.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/09dc8176b4fca6db33e549aee60ccab5/transformed/material-1.8.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -4,7 +4,7 @@
             "outputFile": "com.sourcey.materiallogindemo.app-mergeReleaseResources-57:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/Users/rml/.gradle/caches/transforms-3/89797571bf4d9411c3c63973b7af8978/transformed/core-1.9.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/a5cdc3c877aad940d48b4a15a719805b/transformed/core-1.9.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rml/.gradle/caches/transforms-3/49d72676b9f19c8846822948822fffc5/transformed/appcompat-1.6.1/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/674afe18aff7e13d7bf5c0ef048dac6e/transformed/appcompat-1.6.1/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rml/.gradle/caches/transforms-3/78dfcd5fba5a8fbf754b2c770dad3918/transformed/browser-1.4.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/3ea94f8690c003b5d97e8af6f2c6f211/transformed/browser-1.4.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

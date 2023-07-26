@@ -1,2 +1,13 @@
+com.facebook.AccessTokenManager
+com.facebook.AccessTokenManager$Companion
+com.facebook.AccessTokenManager$FacebookRefreshTokenInfo
+com.facebook.AccessTokenManager$InstagramRefreshTokenInfo
+com.facebook.AccessTokenManager$RefreshResult
+com.facebook.AccessTokenManager$RefreshTokenInfo
+com.facebook.appevents.AppEvent$Companion
+com.facebook.appevents.internal.HashUtils
 com.facebook.internal.security.CertificateUtil
+com.google.android.gms.internal.firebase-auth-api.zzacs
 com.google.android.gms.internal.firebase-auth-api.zzoh
+com.google.android.gms.measurement.internal.zzln
+com.google.firebase.installations.local.IidStore

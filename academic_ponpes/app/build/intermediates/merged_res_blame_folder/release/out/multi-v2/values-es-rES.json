@@ -4,7 +4,7 @@
             "outputFile": "com.sourcey.materiallogindemo.app-mergeReleaseResources-57:/values-es-rES/values-es-rES.xml",
             "map": [
                 {
-                    "source": "/Users/rml/.gradle/caches/transforms-3/32b1816f8b8a7338b62310ad09f6278a/transformed/facebook-login-14.1.0/res/values-es-rES/values-es-rES.xml",
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/09ba359a771bb736f70d4ff11e392733/transformed/facebook-login-14.1.0/res/values-es-rES/values-es-rES.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

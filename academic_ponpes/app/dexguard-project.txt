@@ -1,8 +1,33 @@
 -verbose
 
 
+
 -encryptclasses com.google.android.gms.internal.firebase-auth-api.zzoh
 -encryptclasses com.google.android.gms.internal.firebase-auth-api.zzacs
+-encryptclasses com.google.android.gms.measurement.internal.zzln
+
+-encryptclasses com.facebook.AccessTokenManager$Companion
+-encryptclasses com.google.firebase.installations.local.IidStore
 -encryptclasses com.facebook.internal.security.CertificateUtil
 -encryptclasses com.facebook.appevents.internal.HashUtils
 -encryptclasses com.facebook.appevents.AppEvent$Companion
+-encryptclasses com.facebook.AccessTokenManager$Companion
+-encryptclasses com.facebook.AccessTokenManager$FacebookRefreshTokenInfo
+-encryptclasses com.facebook.AccessTokenManager$InstagramRefreshTokenInfo
+-encryptclasses com.facebook.AccessTokenManager$RefreshResult
+-encryptclasses com.facebook.AccessTokenManager$RefreshTokenInfo
+-encryptclasses com.facebook.AccessTokenManager
+
+-assumenosideeffects class android.util.Log {
+    public static boolean isLoggable(java.lang.String, int);
+    public static int v(...);
+    public static int i(...);
+    public static int w(...);
+    public static int d(...);
+    public static int e(...);
+}
+
+
+
+
+

@@ -4,24 +4,7 @@
             "outputFile": "com.sourcey.materiallogindemo.app-mergeReleaseResources-57:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/rml/.gradle/caches/transforms-3/49d72676b9f19c8846822948822fffc5/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593,687",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "120,204,288,384,486,588,682,771"
-                    },
-                    "to": {
-                        "startLines": "15,16,17,18,19,20,21,47",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "643,713,797,881,977,1079,1181,4036",
-                        "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "708,792,876,972,1074,1176,1270,4120"
-                    }
-                },
-                {
-                    "source": "/Users/rml/Desktop/Rizky Pradana Putra/Aplikasi/academic_ponpes/app/src/main/res/values-night/themes.xml",
+                    "source": "/Volumes/DATA/DexGuard/academic_ponpes/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -40,7 +23,24 @@
                     }
                 },
                 {
-                    "source": "/Users/rml/.gradle/caches/transforms-3/c231e2dcf13fdd25630beb47923ec058/transformed/material-1.8.0/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/674afe18aff7e13d7bf5c0ef048dac6e/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19,20,21,47",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "643,713,797,881,977,1079,1181,4036",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "708,792,876,972,1074,1176,1270,4120"
+                    }
+                },
+                {
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/09dc8176b4fca6db33e549aee60ccab5/transformed/material-1.8.0/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

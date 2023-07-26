@@ -26925,116 +26925,116 @@ com.google.zxing.qrcode.encoder.QRCode:
     54:54:public int getMaskPattern()
     42:42:public com.google.zxing.qrcode.decoder.Mode getMode()
     50:50:public com.google.zxing.qrcode.decoder.Version getVersion()
-com.guardsquare.dexguard.bOS
-com.guardsquare.dexguard.bOT:
-    private static final int a
-    private static final int e
+com.guardsquare.dexguard.bOD:
+    private static final int b
     private static final int c
-com.guardsquare.dexguard.bOW
-com.guardsquare.dexguard.bOY
-com.guardsquare.dexguard.bOZ:
-    private static final int b
-    private static final long d
-    14:14:private bOZ()
-com.guardsquare.dexguard.bPA:
-    16:16:public bridge synthetic java.io.InputStream decryptClasses$c1(java.io.InputStream,java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bPB:
-    115:131:private static int b$n1(long)
-    16:16:public bridge synthetic java.io.InputStream decryptNativeLibrary$n2(java.io.InputStream,java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bPG:
-    16:16:public bridge synthetic java.io.InputStream decryptNativeLibrary$n5(java.io.InputStream,java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bPH:
-    26:26:public bridge synthetic java.io.InputStream decryptNativeLibrary$n10(java.io.InputStream,java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bPN:
-    17:17:public bridge synthetic java.io.InputStream decryptNativeLibrary$n14(java.io.InputStream,java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bPa:
-    10:10:private bPa()
-com.guardsquare.dexguard.bPb:
-    private static final int e
-com.guardsquare.dexguard.bPc:
-    static final int d
-    static final int a
-    83:83:private bPc()
-    95:97:public static byte[] a(java.security.SecureRandom)
-    287:289:public static int a(long)
-    301:311:public static int e(byte[][])
-com.guardsquare.dexguard.bPd
-com.guardsquare.dexguard.bPe
-com.guardsquare.dexguard.bPf
-com.guardsquare.dexguard.bPg:
     private static final int d
+com.guardsquare.dexguard.bOE
+com.guardsquare.dexguard.bOG:
+    10:10:private bOG()
+com.guardsquare.dexguard.bOH
+com.guardsquare.dexguard.bOI:
     private static final int a
-    354:420:public static void d(java.lang.String[])
-com.guardsquare.dexguard.bPh:
-    16:19:public bPh(int,byte[])
-com.guardsquare.dexguard.bPi
-com.guardsquare.dexguard.bPl:
-    private static final int b
-com.guardsquare.dexguard.bPm:
-    15:15:public bridge synthetic java.io.InputStream decryptClasses$c7(java.io.InputStream,java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bPo:
-    16:16:public bridge synthetic java.io.InputStream decryptClasses$c11(java.io.InputStream,java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bPv:
+    private static final long b
+    14:14:private bOI()
+com.guardsquare.dexguard.bOJ:
+    static final int b
+    static final int e
+    83:83:private bOJ()
+    95:97:public static byte[] a(java.security.SecureRandom)
+    287:289:public static int c(long)
+    301:311:public static int b(byte[][])
+com.guardsquare.dexguard.bOK
+com.guardsquare.dexguard.bOM:
+    private static final int c
+com.guardsquare.dexguard.bON:
+    private static final int e
+    private static final int a
+    354:420:public static void e(java.lang.String[])
+com.guardsquare.dexguard.bOO
+com.guardsquare.dexguard.bOP
+com.guardsquare.dexguard.bOQ:
+    private static final int c
+com.guardsquare.dexguard.bOR
+com.guardsquare.dexguard.bOS
+com.guardsquare.dexguard.bOV:
+    16:19:public bOV(int,byte[])
+com.guardsquare.dexguard.bOX:
+    16:16:public bridge synthetic java.io.InputStream decryptClasses$c1(java.io.InputStream,java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bOZ:
+    15:15:public bridge synthetic java.io.InputStream decryptClasses$c5(java.io.InputStream,java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bPO:
+    14:14:public bridge synthetic java.lang.String decryptString$s1(java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bPS:
+    192:230:private static int[] encryptBlock$s6(char[],int[],boolean)
+    286:288:private static int c$s9(int)
+    15:15:public bridge synthetic java.lang.String decryptString$s10(java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bPT:
+    public java.util.Map b$s4
+com.guardsquare.dexguard.bPX:
+    16:16:public bridge synthetic java.lang.String decryptString$s13(java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bPY:
+    14:14:public bridge synthetic java.lang.String decryptString$s21(java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bPe:
+    16:16:public bridge synthetic java.io.InputStream decryptClasses$c9(java.io.InputStream,java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bPg:
     27:27:public bridge synthetic java.io.InputStream decryptClasses$c16(java.io.InputStream,java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bQA:
-    101:108:private static boolean a$s1(int)
-    14:14:public bridge synthetic java.lang.String decryptString$s2(java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bQG:
-    private static final char c
-    305:305:private static int a$s5(int,int)
-    310:310:private static int d$s6(int,int)
-    315:315:private static int a$s7(int,int,int)
-    320:320:private static int e$s8(int,int)
-    325:325:private static int c$s9(int,int)
-    27:27:public bridge synthetic java.lang.String decryptString$s10(java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bQK:
-    13:13:public bridge synthetic java.lang.String decryptString$s15(java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bQL:
-    public java.util.Map b$s13
-com.guardsquare.dexguard.bQQ:
-    public java.util.Map e$s18
-com.guardsquare.dexguard.bQS:
-    private static final char c
-    private static final int d
-    144:155:private static void encryptBlock$s22(char[],char,char,char,char)
-    174:186:private static void decryptBlock$s23(char[],char,char,char,char)
-    15:15:public bridge synthetic java.lang.String decryptString$s24(java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bQU:
-    254:262:private static boolean a$s30(java.lang.String)
-    19:19:public bridge synthetic java.lang.String decryptString$s31(java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bQV:
-    public java.util.Map g$s37
-    public java.util.Map j$s38
-    public java.util.Map f$s39
-    public boolean h$s40
-com.guardsquare.dexguard.bQe:
-    14:14:public bridge synthetic java.lang.String decryptString$s42(java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bQf:
-    public java.util.Map d$s45
-com.guardsquare.dexguard.bQj:
-    192:230:private static int[] encryptBlock$s47(char[],int[],boolean)
-    286:288:private static int b$s50(int)
-    15:15:public bridge synthetic java.lang.String decryptString$s51(java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bQk:
-    14:14:public bridge synthetic java.lang.String decryptString$s54(java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bQp:
-    104:135:private static char[] a$s57(char[],long,char[],int)
-    194:199:private static char[] e$s59(long)
-    12:12:public bridge synthetic java.lang.String decryptString$s60(java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bQr:
-    16:16:public bridge synthetic java.lang.String decryptString$s63(java.lang.Object,java.lang.Object)
-com.guardsquare.dexguard.bQt:
-    public java.util.Map a$s65
-    public java.util.Set c$s66
-    public java.util.Map d$s67
-    public java.util.Map e$s68
-    public java.util.Map j$s69
-com.guardsquare.dexguard.bQy:
-    private static final char c
+com.guardsquare.dexguard.bPo:
+    16:16:public bridge synthetic java.io.InputStream decryptNativeLibrary$n1(java.io.InputStream,java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bPp:
+    115:131:private static int b$n5(long)
+    16:16:public bridge synthetic java.io.InputStream decryptNativeLibrary$n6(java.io.InputStream,java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bPr:
+    26:26:public bridge synthetic java.io.InputStream decryptNativeLibrary$n10(java.io.InputStream,java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bPx:
+    17:17:public bridge synthetic java.io.InputStream decryptNativeLibrary$n14(java.io.InputStream,java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bQB:
+    public java.util.Map b$s74
+com.guardsquare.dexguard.bQC:
     private static final char a
-    167:175:private static void c$s71(char[],char[],int)
-    186:191:private static char[] c$s72(long)
-    14:14:public bridge synthetic java.lang.String decryptString$s73(java.lang.Object,java.lang.Object)
+    private static final int e
+    144:155:private static void encryptBlock$s24(char[],char,char,char,char)
+    174:186:private static void decryptBlock$s25(char[],char,char,char,char)
+    15:15:public bridge synthetic java.lang.String decryptString$s26(java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bQE:
+    254:262:private static boolean e$s32(java.lang.String)
+    19:19:public bridge synthetic java.lang.String decryptString$s33(java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bQH:
+    public java.util.Map i$s39
+    public java.util.Map g$s40
+    public java.util.Map h$s41
+    public boolean j$s42
+com.guardsquare.dexguard.bQb:
+    104:135:private static char[] a$s44(char[],long,char[],int)
+    194:199:private static char[] a$s46(long)
+    12:12:public bridge synthetic java.lang.String decryptString$s47(java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bQc:
+    public java.util.Map c$s15
+    public java.util.Set e$s16
+    public java.util.Map d$s17
+    public java.util.Map b$s18
+    public java.util.Map h$s19
+com.guardsquare.dexguard.bQj:
+    private static final char a
+    private static final char b
+    167:175:private static void c$s50(char[],char[],int)
+    186:191:private static char[] e$s51(long)
+    14:14:public bridge synthetic java.lang.String decryptString$s52(java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bQm:
+    101:108:private static boolean a$s57(int)
+    14:14:public bridge synthetic java.lang.String decryptString$s58(java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bQr:
+    private static final char c
+    305:305:private static int e$s61(int,int)
+    310:310:private static int d$s62(int,int)
+    315:315:private static int d$s63(int,int,int)
+    320:320:private static int a$s64(int,int)
+    325:325:private static int b$s65(int,int)
+    27:27:public bridge synthetic java.lang.String decryptString$s66(java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bQw:
+    13:13:public bridge synthetic java.lang.String decryptString$s71(java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bQy:
+    public java.util.Map c$s69
 com.guardsquare.dexguard.encryption.clazz.ClassEncryptionPlugin:
     117:117:public java.lang.Object createClassSharedEncryptionKey(long,java.util.Set)
     142:142:public java.lang.Object createClassEncryptionKey(java.lang.Object,long,java.util.Set)
@@ -27091,6 +27091,8 @@ com.sourcey.materiallogindemo.adapter.AdapterTabungan:
     9:9:public final void setTabunganModels(java.util.List)
 com.sourcey.materiallogindemo.auth.LoginActivity:
     public com.google.firebase.auth.FirebaseAuth fiarebaseAuth
+    38:38:public final com.sourcey.materiallogindemo.core.service.AuthService getAuthService()
+    39:39:public final com.sourcey.tenant.core.helper.Connection getConnection()
     36:36:public final com.google.firebase.auth.FirebaseAuth getFiarebaseAuth()
     41:41:public final int getRC_SIGN_IN()
     36:36:public final void setFiarebaseAuth(com.google.firebase.auth.FirebaseAuth)
@@ -27111,6 +27113,8 @@ com.sourcey.materiallogindemo.core.db.DbHelperSiswa:
     private static final java.lang.String card_code
     private static final java.lang.String nama
     private static final java.lang.String nis
+com.sourcey.materiallogindemo.core.service.AuthService:
+    public abstract retrofit2.Call loginWithSosmed(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
 com.sourcey.materiallogindemo.databinding.ActivityAbsensiBinding:
     20:20:public bridge synthetic android.view.View getRoot()
 com.sourcey.materiallogindemo.databinding.ActivityLoginBinding:

@@ -4,7 +4,7 @@
             "outputFile": "com.sourcey.materiallogindemo.app-mergeReleaseResources-57:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "/Users/rml/.gradle/caches/transforms-3/c231e2dcf13fdd25630beb47923ec058/transformed/material-1.8.0/res/values-small-v4/values-small-v4.xml",
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/09dc8176b4fca6db33e549aee60ccab5/transformed/material-1.8.0/res/values-small-v4/values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.academica.academic_ponpes"
+    package="com.sourcey.materiallogindemo"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -14,10 +14,10 @@
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
 
     <permission
-        android:name="com.academica.academic_ponpes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.sourcey.materiallogindemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.academica.academic_ponpes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.sourcey.materiallogindemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="true"
@@ -32,21 +32,21 @@
         android:testOnly="true"
         android:theme="@style/Theme.Academic_ponpes" >
         <activity
-            android:name="com.academica.academic_ponpes.beranda.Absensi"
+            android:name="com.sourcey.materiallogindemo.beranda.Absensi"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name="com.academica.academic_ponpes.beranda.Tabungan"
+            android:name="com.sourcey.materiallogindemo.beranda.Tabungan"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name="com.academica.academic_ponpes.auth.SplashScreen"
+            android:name="com.sourcey.materiallogindemo.auth.SplashScreen"
             android:exported="true" >
             <meta-data
                 android:name="android.app.lib_name"
@@ -59,21 +59,21 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.academica.academic_ponpes.siswa.SiswaActivity"
+            android:name="com.sourcey.materiallogindemo.siswa.SiswaActivity"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name="com.academica.academic_ponpes.auth.LoginActivity"
+            android:name="com.sourcey.materiallogindemo.auth.LoginActivity"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name="com.academica.academic_ponpes.MainActivity"
+            android:name="com.sourcey.materiallogindemo.MainActivity"
             android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
@@ -128,7 +128,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="cct.com.academica.academic_ponpes"
+                    android:host="cct.com.sourcey.materiallogindemo"
                     android:scheme="fbconnect" />
             </intent-filter>
         </activity>
@@ -190,7 +190,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.academica.academic_ponpes.firebaseinitprovider"
+            android:authorities="com.sourcey.materiallogindemo.firebaseinitprovider"
             android:directBootAware="true"
             android:exported="false"
             android:initOrder="100" />
@@ -225,7 +225,7 @@
         -->
         <provider
             android:name="com.facebook.internal.FacebookInitProvider"
-            android:authorities="com.academica.academic_ponpes.FacebookInitProvider"
+            android:authorities="com.sourcey.materiallogindemo.FacebookInitProvider"
             android:exported="false" />
 
         <receiver
@@ -252,7 +252,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.academica.academic_ponpes.androidx-startup"
+            android:authorities="com.sourcey.materiallogindemo.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"
@@ -263,7 +263,7 @@
         </provider>
         <provider
             android:name="com.squareup.picasso.PicassoProvider"
-            android:authorities="com.academica.academic_ponpes.com.squareup.picasso"
+            android:authorities="com.sourcey.materiallogindemo.com.squareup.picasso"
             android:exported="false" />
     </application>
 

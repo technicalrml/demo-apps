@@ -11,7 +11,7 @@ android {
 
     signingConfigs {
         debug {
-            storeFile     file('/Volumes/DATA/DexGuard-9.4.14/samples/debug.keystore')
+            storeFile     file('/Volumes/DATA/DexGuard/DexGuard-9.4.14/samples/debug.keystore')
             storePassword 'android'
             keyAlias      'androiddebugkey'
             keyPassword   'android'
@@ -29,8 +29,16 @@ android {
 
     buildTypes {
         release {
+            // These have to be false to prevent R8 from shrinking necessary information!
             minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            shrinkResources false
+            signingConfig signingConfigs.debug
+        }
+        debug {
+            // These have to be false to prevent R8 from shrinking necessary information!
+            minifyEnabled false
+            shrinkResources false
+            signingConfig signingConfigs.debug
         }
     }
     compileOptions {
@@ -101,6 +109,7 @@ dependencies {
             }
             register("debug") {
                 defaultConfiguration("dexguard-debug.pro")
+                configuration("dexguard-project.txt")
             }
         }
     }

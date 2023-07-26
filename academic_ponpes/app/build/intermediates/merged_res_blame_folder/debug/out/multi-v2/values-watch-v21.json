@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.academica.academic_ponpes.app-mergeDebugResources-57:/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "com.sourcey.materiallogindemo.app-mergeDebugResources-57:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "/Users/nikki/.gradle/caches/transforms-3/682034779a8141021edc43d0a3e71596/transformed/appcompat-1.6.1/res/values-watch-v21/values-watch-v21.xml",
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/674afe18aff7e13d7bf5c0ef048dac6e/transformed/appcompat-1.6.1/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

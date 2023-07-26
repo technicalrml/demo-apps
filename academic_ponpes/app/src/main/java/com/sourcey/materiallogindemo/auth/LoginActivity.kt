@@ -78,7 +78,7 @@ class LoginActivity : AppCompatActivity(), View.OnClickListener {
     override fun onClick(v: View) {
         var itemId = v.id
         when(itemId){
-            R.id.btn_login -> mGoogleSignInClient.signOut()
+            R.id.btn_login -> saveSign("","",binding.etUsername.text.toString(), "","")
             R.id.btn_login_with_google -> signInGoogle()
             R.id.btn_login_with_fb -> loginFacebook()
         }
@@ -235,7 +235,9 @@ class LoginActivity : AppCompatActivity(), View.OnClickListener {
             var lastname = displayName.get(1)
             var displayEmail = account.email.toString()
             var email = displayEmail.replace("@", "%40")
-            Log.d("TAG", "data eee: "+ email)
+            Log.d("TAG", "data eee: "+ account)
+
+
 
             saveSign(firstName,
                 lastname,
@@ -253,31 +255,41 @@ class LoginActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     fun saveSign(firstname: String, lastname: String, username: String, email: String, uid: String){
-        if (connection.isConnectionInternet()){
-            authService.loginWithSosmed(firstname, lastname, username, email, uid).enqueue(object : Callback<ResponseBody>{
-                override fun onResponse(
-                    call: Call<ResponseBody>,
-                    response: Response<ResponseBody>
-                ) {
-                    if (response.isSuccessful){
-                        sessionManager.setIsLogin()
-                        sessionManager.setFirstName(firstname)
-                        sessionManager.setLastName(lastname)
-                        sessionManager.setUsername(username)
-                        sessionManager.setEmail(email)
-                        sessionManager.setUid(uid)
-                        startActivity(Intent(this@LoginActivity, SiswaActivity::class.java))
-                        finishAffinity()
-                    }
 
-                }
+        sessionManager.setIsLogin()
+        sessionManager.setFirstName(firstname)
+        sessionManager.setLastName(lastname)
+        sessionManager.setUsername(username)
+        sessionManager.setEmail(email)
+        sessionManager.setUid(uid)
+        startActivity(Intent(this@LoginActivity, SiswaActivity::class.java))
+        finishAffinity()
 
-                override fun onFailure(call: Call<ResponseBody>, t: Throwable) {
-                    Log.d("LOGIN", "onFailure: -->"+ t.message)
-                }
-            })
-        }else{
-            Toast.makeText(this, "Cek Koneksi Internet Anda", Toast.LENGTH_SHORT).show()
-        }
+//        if (connection.isConnectionInternet()){
+//            authService.loginWithSosmed(firstname, lastname, username, email, uid).enqueue(object : Callback<ResponseBody>{
+//                override fun onResponse(
+//                    call: Call<ResponseBody>,
+//                    response: Response<ResponseBody>
+//                ) {
+//                    if (response.isSuccessful){
+//                        sessionManager.setIsLogin()
+//                        sessionManager.setFirstName(firstname)
+//                        sessionManager.setLastName(lastname)
+//                        sessionManager.setUsername(username)
+//                        sessionManager.setEmail(email)
+//                        sessionManager.setUid(uid)
+//                        startActivity(Intent(this@LoginActivity, SiswaActivity::class.java))
+//                        finishAffinity()
+//                    }
+//
+//                }
+//
+//                override fun onFailure(call: Call<ResponseBody>, t: Throwable) {
+//                    Log.d("LOGIN", "onFailure: -->"+ t.message)
+//                }
+//            })
+//        }else{
+//            Toast.makeText(this, "Cek Koneksi Internet Anda", Toast.LENGTH_SHORT).show()
+//        }
     }
 }
