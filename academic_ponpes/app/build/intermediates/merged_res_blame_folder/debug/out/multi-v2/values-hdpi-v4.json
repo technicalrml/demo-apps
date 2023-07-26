@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.academica.academic_ponpes.app-mergeDebugResources-57:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/682034779a8141021edc43d0a3e71596/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

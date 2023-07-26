@@ -1,0 +1,12 @@
+{
+    "libraries": [{
+        "name": "libe88cb1.so",
+        "linker_flags": {
+            "armv7": "",
+            "x86_64": "",
+            "arm64": "",
+            "i386": ""
+        }
+    }],
+    "ndk_version": "21"
+}

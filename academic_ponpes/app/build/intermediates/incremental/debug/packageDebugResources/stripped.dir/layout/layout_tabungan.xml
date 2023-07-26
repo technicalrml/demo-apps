@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_marginVertical="@dimen/_10sdp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/tv_tanggal"
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:text="tanggal"
+        android:textColor="@color/primary10"
+        android:layout_weight="40"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_debit"
+        android:text="Debit"
+        android:textColor="@color/primary10"
+        android:layout_weight="20"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/tv_kredit"
+        android:text="Kredit"
+        android:textColor="@color/primary10"
+        android:layout_weight="20"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/tv_saldo"
+        android:text="Saldo"
+        android:textColor="@color/primary10"
+        android:layout_weight="20"
+        android:layout_width="0dp"
+        android:gravity="end"
+        android:layout_marginRight="@dimen/_10sdp"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

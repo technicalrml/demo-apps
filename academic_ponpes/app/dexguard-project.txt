@@ -1,0 +1,8 @@
+-verbose
+
+
+-encryptclasses com.google.android.gms.internal.firebase-auth-api.zzoh
+-encryptclasses com.google.android.gms.internal.firebase-auth-api.zzacs
+-encryptclasses com.facebook.internal.security.CertificateUtil
+-encryptclasses com.facebook.appevents.internal.HashUtils
+-encryptclasses com.facebook.appevents.AppEvent$Companion

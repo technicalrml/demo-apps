@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "885932345796",
+    "project_id": "popens-ortu-app",
+    "storage_bucket": "popens-ortu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885932345796:android:add14ed75e3200c1a17c91",
+        "android_client_info": {
+          "package_name": "com.academica.academic_ponpes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885932345796-v22oki2kk5pqfqh3r993l8vnptu1pk5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.academica.academic_ponpes",
+            "certificate_hash": "ba3cc2ce8da91e034f2e78f80dae77e4b264a74f"
+          }
+        },
+        {
+          "client_id": "885932345796-gcerkrutve1i4717n0q21bmh7qd7ti74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLLKOmWy5Gn5YUiSz40EsM6eZFnWWkjww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885932345796-gcerkrutve1i4717n0q21bmh7qd7ti74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

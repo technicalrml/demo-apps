@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sourcey.materiallogindemo.app-mergeReleaseResources-57:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/rml/.gradle/caches/transforms-3/c231e2dcf13fdd25630beb47923ec058/transformed/material-1.8.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}

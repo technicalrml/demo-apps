@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">academic_ponpes</string>
+    <string name="rp">Rp </string>
+
+
+    <string name="facebook_app_id">694488655788786</string>
+    <string name="fb_login_protocol_scheme">fb694488655788786</string>
+    <string name="facebook_client_token">a56a507e68d24c2816672bb3df603271</string>
+
+
+</resources>

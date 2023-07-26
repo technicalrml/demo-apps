@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/layout_absensi.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/layout_absensi.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/dialog_add_siswa.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/dialog_add_siswa.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/activity_absensi.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_absensi.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/activity_siswa.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_siswa.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/activity_main.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/activity_tabungan.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_tabungan.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/activity_splash_screen.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/activity_login.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/layout_siswa.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/layout_siswa.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/layout_tabungan.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/layout_tabungan.xml"
+    }
+]

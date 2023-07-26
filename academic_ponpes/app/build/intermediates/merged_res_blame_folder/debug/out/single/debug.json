@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/layout_layout_absensi.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/layout/layout_absensi.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.academica.academic_ponpes.app-pngs-54:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_ic_baseline_logout_24.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_missing.png.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/missing.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/layout_layout_siswa.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/layout/layout_siswa.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/layout_activity_login.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_shape_text_input.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/shape_text_input.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_top_table.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/top_table.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_information.png.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/information.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/menu_menu_siswa.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/menu/menu_siswa.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_facebook.png.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/facebook.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_academica_logo.png.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/academica_logo.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/layout_activity_siswa.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/layout/activity_siswa.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_backgroud_sheet_dialog.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/backgroud_sheet_dialog.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/xml_backup_rules.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_bottom_table.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/bottom_table.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_receipt.png.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/receipt.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/layout_activity_absensi.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/layout/activity_absensi.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_ic_baseline_delete_24.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_score.png.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/score.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/layout_activity_main.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_ic_baseline_edit_24.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/layout_dialog_add_siswa.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/layout/dialog_add_siswa.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_jar.png.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/jar.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/layout_activity_splash_screen.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/layout_activity_tabungan.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/layout/activity_tabungan.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_check_out.png.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/check_out.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/xml_data_extraction_rules.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_shape_button.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/shape_button.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_google.png.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/google.png"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/layout_layout_tabungan.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/layout/layout_tabungan.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.academica.academic_ponpes.app-debug-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.academica.academic_ponpes.app-merged_res-59:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.academica.academic_ponpes.app-main-61:/drawable/ic_launcher_background.xml"
+    }
+]

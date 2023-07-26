@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black10">#050709</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="primary10">#496674</color>
+    <color name="primary30">#4f748f</color>
+    <color name="primary50">#69b5c2</color>
+    <color name="primary70">#b7d6e1</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">academic_ponpes</string>
+    <string name="facebook_app_id">694488655788786</string>
+    <string name="facebook_client_token">a56a507e68d24c2816672bb3df603271</string>
+    <string name="fb_login_protocol_scheme">fb694488655788786</string>
+    <string name="rp">Rp </string>
+    <style name="NoBackgroundDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowIsFloating">false</item>
+
+    </style>
+    <style name="Theme.Academic_ponpes" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary10</item>
+        <item name="colorPrimaryVariant">@color/primary50</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/primary10</item>
+        <item name="colorSecondaryVariant">@color/primary30</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.Academic_ponpes.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.Academic_ponpes.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Academica_Tenant.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

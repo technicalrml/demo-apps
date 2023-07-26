@@ -1,0 +1,488 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.academica.academic_ponpes"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:24:5-79
+12-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:24:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->[com.google.android.gms:play-services-measurement-api:21.2.1] /Users/nikki/.gradle/caches/transforms-3/092d9f8c645b4613917a4fcb6543f2c2/transformed/play-services-measurement-api-21.2.1/AndroidManifest.xml:24:5-68
+13-->[com.google.android.gms:play-services-measurement-api:21.2.1] /Users/nikki/.gradle/caches/transforms-3/092d9f8c645b4613917a4fcb6543f2c2/transformed/play-services-measurement-api-21.2.1/AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+14-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:26:5-110
+14-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:26:22-107
+15
+16    <permission
+16-->[androidx.core:core:1.9.0] /Users/nikki/.gradle/caches/transforms-3/99b9cba495a18c085f2761c30c0d344f/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+17        android:name="com.academica.academic_ponpes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.9.0] /Users/nikki/.gradle/caches/transforms-3/99b9cba495a18c085f2761c30c0d344f/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.9.0] /Users/nikki/.gradle/caches/transforms-3/99b9cba495a18c085f2761c30c0d344f/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.academica.academic_ponpes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.9.0] /Users/nikki/.gradle/caches/transforms-3/99b9cba495a18c085f2761c30c0d344f/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.9.0] /Users/nikki/.gradle/caches/transforms-3/99b9cba495a18c085f2761c30c0d344f/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:10:5-80:19
+23        android:allowBackup="true"
+23-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:11:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.9.0] /Users/nikki/.gradle/caches/transforms-3/99b9cba495a18c085f2761c30c0d344f/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:12:9-65
+26        android:debuggable="true"
+27        android:fullBackupContent="@xml/backup_rules"
+27-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:13:9-54
+28        android:icon="@mipmap/ic_launcher"
+28-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:14:9-43
+29        android:label="@string/app_name"
+29-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:15:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:16:9-54
+31        android:supportsRtl="true"
+31-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:17:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.Academic_ponpes" >
+33-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:18:9-53
+34        <activity
+34-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:20:9-26:20
+35            android:name="com.academica.academic_ponpes.beranda.Absensi"
+35-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:21:13-44
+36            android:exported="false" >
+36-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:22:13-37
+37            <meta-data
+37-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:23:13-25:36
+38                android:name="android.app.lib_name"
+38-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:24:17-52
+39                android:value="" />
+39-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:25:17-33
+40        </activity>
+41        <activity
+41-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:27:9-33:20
+42            android:name="com.academica.academic_ponpes.beranda.Tabungan"
+42-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:28:13-45
+43            android:exported="false" >
+43-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:29:13-37
+44            <meta-data
+44-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:23:13-25:36
+45                android:name="android.app.lib_name"
+45-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:24:17-52
+46                android:value="" />
+46-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:25:17-33
+47        </activity>
+48        <activity
+48-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:34:9-46:20
+49            android:name="com.academica.academic_ponpes.auth.SplashScreen"
+49-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:35:13-46
+50            android:exported="true" >
+50-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:36:13-36
+51            <meta-data
+51-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:23:13-25:36
+52                android:name="android.app.lib_name"
+52-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:24:17-52
+53                android:value="" />
+53-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:25:17-33
+54
+55            <intent-filter>
+55-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:41:13-45:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:42:17-69
+56-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:42:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:44:17-77
+58-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:44:27-74
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:47:9-53:20
+62            android:name="com.academica.academic_ponpes.siswa.SiswaActivity"
+62-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:48:13-48
+63            android:exported="false" >
+63-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:49:13-37
+64            <meta-data
+64-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:23:13-25:36
+65                android:name="android.app.lib_name"
+65-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:24:17-52
+66                android:value="" />
+66-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:25:17-33
+67        </activity>
+68        <activity
+68-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:54:9-60:20
+69            android:name="com.academica.academic_ponpes.auth.LoginActivity"
+69-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:55:13-47
+70            android:exported="false" >
+70-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:56:13-37
+71            <meta-data
+71-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:23:13-25:36
+72                android:name="android.app.lib_name"
+72-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:24:17-52
+73                android:value="" />
+73-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:25:17-33
+74        </activity>
+75        <activity
+75-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:61:9-67:20
+76            android:name="com.academica.academic_ponpes.MainActivity"
+76-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:62:13-41
+77            android:exported="false" >
+77-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:63:13-37
+78            <meta-data
+78-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:23:13-25:36
+79                android:name="android.app.lib_name"
+79-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:24:17-52
+80                android:value="" />
+80-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:25:17-33
+81        </activity>
+82
+83        <meta-data
+83-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:69:9-71:55
+84            android:name="com.facebook.sdk.ApplicationId"
+84-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:70:13-58
+85            android:value="@string/facebook_app_id" />
+85-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:71:13-52
+86        <meta-data
+86-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:72:9-74:61
+87            android:name="com.facebook.sdk.ClientToken"
+87-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:73:13-56
+88            android:value="@string/facebook_client_token" />
+88-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:74:13-58
+89
+90        <activity
+90-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:76:9-79:48
+91            android:name="com.facebook.FacebookActivity"
+91-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:77:13-57
+92            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+92-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:78:13-96
+93            android:label="@string/app_name"
+93-->/Volumes/DATA/AndroidStudioProjects/academic_ponpes/app/src/main/AndroidManifest.xml:79:13-45
+94            android:theme="@style/com_facebook_activity_theme" />
+94-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:33:13-63
+95
+96        <service
+96-->[com.google.firebase:firebase-analytics-ktx:21.2.1] /Users/nikki/.gradle/caches/transforms-3/3b4a054c63ce20fd71b5911ac06eac69/transformed/firebase-analytics-ktx-21.2.1/AndroidManifest.xml:8:9-14:19
+97            android:name="com.google.firebase.components.ComponentDiscoveryService"
+97-->[com.google.firebase:firebase-analytics-ktx:21.2.1] /Users/nikki/.gradle/caches/transforms-3/3b4a054c63ce20fd71b5911ac06eac69/transformed/firebase-analytics-ktx-21.2.1/AndroidManifest.xml:9:13-84
+98            android:directBootAware="true"
+98-->[com.google.firebase:firebase-common:20.3.2] /Users/nikki/.gradle/caches/transforms-3/c8231adaa8101a158aa1fbc65dfd52fb/transformed/firebase-common-20.3.2/AndroidManifest.xml:34:13-43
+99            android:exported="false" >
+99-->[com.google.firebase:firebase-analytics-ktx:21.2.1] /Users/nikki/.gradle/caches/transforms-3/3b4a054c63ce20fd71b5911ac06eac69/transformed/firebase-analytics-ktx-21.2.1/AndroidManifest.xml:10:13-37
+100            <meta-data
+100-->[com.google.firebase:firebase-analytics-ktx:21.2.1] /Users/nikki/.gradle/caches/transforms-3/3b4a054c63ce20fd71b5911ac06eac69/transformed/firebase-analytics-ktx-21.2.1/AndroidManifest.xml:11:13-13:85
+101                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+101-->[com.google.firebase:firebase-analytics-ktx:21.2.1] /Users/nikki/.gradle/caches/transforms-3/3b4a054c63ce20fd71b5911ac06eac69/transformed/firebase-analytics-ktx-21.2.1/AndroidManifest.xml:12:17-126
+102                android:value="com.google.firebase.components.ComponentRegistrar" />
+102-->[com.google.firebase:firebase-analytics-ktx:21.2.1] /Users/nikki/.gradle/caches/transforms-3/3b4a054c63ce20fd71b5911ac06eac69/transformed/firebase-analytics-ktx-21.2.1/AndroidManifest.xml:13:17-82
+103            <meta-data
+103-->[com.google.firebase:firebase-auth-ktx:21.1.0] /Users/nikki/.gradle/caches/transforms-3/c71a8b758343a73667c85280d7e4133a/transformed/firebase-auth-ktx-21.1.0/AndroidManifest.xml:11:13-13:85
+104                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+104-->[com.google.firebase:firebase-auth-ktx:21.1.0] /Users/nikki/.gradle/caches/transforms-3/c71a8b758343a73667c85280d7e4133a/transformed/firebase-auth-ktx-21.1.0/AndroidManifest.xml:12:17-116
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-auth-ktx:21.1.0] /Users/nikki/.gradle/caches/transforms-3/c71a8b758343a73667c85280d7e4133a/transformed/firebase-auth-ktx-21.1.0/AndroidManifest.xml:13:17-82
+106            <meta-data
+106-->[com.google.firebase:firebase-common-ktx:20.3.2] /Users/nikki/.gradle/caches/transforms-3/c4269dce2469b8591cc6a3698fb53618/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:14:13-16:85
+107                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+107-->[com.google.firebase:firebase-common-ktx:20.3.2] /Users/nikki/.gradle/caches/transforms-3/c4269dce2469b8591cc6a3698fb53618/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:15:17-113
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-common-ktx:20.3.2] /Users/nikki/.gradle/caches/transforms-3/c4269dce2469b8591cc6a3698fb53618/transformed/firebase-common-ktx-20.3.2/AndroidManifest.xml:16:17-82
+109            <meta-data
+109-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:67:13-69:85
+110                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+110-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:68:17-109
+111                android:value="com.google.firebase.components.ComponentRegistrar" />
+111-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:69:17-82
+112            <meta-data
+112-->[com.google.android.gms:play-services-measurement-api:21.2.1] /Users/nikki/.gradle/caches/transforms-3/092d9f8c645b4613917a4fcb6543f2c2/transformed/play-services-measurement-api-21.2.1/AndroidManifest.xml:31:13-33:85
+113                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+113-->[com.google.android.gms:play-services-measurement-api:21.2.1] /Users/nikki/.gradle/caches/transforms-3/092d9f8c645b4613917a4fcb6543f2c2/transformed/play-services-measurement-api-21.2.1/AndroidManifest.xml:32:17-139
+114                android:value="com.google.firebase.components.ComponentRegistrar" />
+114-->[com.google.android.gms:play-services-measurement-api:21.2.1] /Users/nikki/.gradle/caches/transforms-3/092d9f8c645b4613917a4fcb6543f2c2/transformed/play-services-measurement-api-21.2.1/AndroidManifest.xml:33:17-82
+115            <meta-data
+115-->[com.google.firebase:firebase-installations:17.1.3] /Users/nikki/.gradle/caches/transforms-3/26c6708f053aaa8c111fdbc78d21a30b/transformed/firebase-installations-17.1.3/AndroidManifest.xml:17:13-19:85
+116                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+116-->[com.google.firebase:firebase-installations:17.1.3] /Users/nikki/.gradle/caches/transforms-3/26c6708f053aaa8c111fdbc78d21a30b/transformed/firebase-installations-17.1.3/AndroidManifest.xml:18:17-127
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.firebase:firebase-installations:17.1.3] /Users/nikki/.gradle/caches/transforms-3/26c6708f053aaa8c111fdbc78d21a30b/transformed/firebase-installations-17.1.3/AndroidManifest.xml:19:17-82
+118        </service>
+119
+120        <activity android:name="com.facebook.CustomTabMainActivity" />
+120-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:34:9-71
+120-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:34:19-68
+121        <activity
+121-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:35:9-49:20
+122            android:name="com.facebook.CustomTabActivity"
+122-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:36:13-58
+123            android:exported="true" >
+123-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:37:13-36
+124            <intent-filter>
+124-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:39:13-48:29
+125                <action android:name="android.intent.action.VIEW" />
+125-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:40:17-69
+125-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:40:25-66
+126
+127                <category android:name="android.intent.category.DEFAULT" />
+127-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:42:17-76
+127-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:42:27-73
+128                <category android:name="android.intent.category.BROWSABLE" />
+128-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:43:17-78
+128-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:43:27-75
+129
+130                <data
+130-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:45:17-47:50
+131                    android:host="cct.com.academica.academic_ponpes"
+131-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:46:21-56
+132                    android:scheme="fbconnect" />
+132-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:47:21-47
+133            </intent-filter>
+134        </activity>
+135        <activity
+135-->[com.google.android.gms:play-services-auth:20.4.1] /Users/nikki/.gradle/caches/transforms-3/333868a97f8edf7303b3e7ccb8754c15/transformed/play-services-auth-20.4.1/AndroidManifest.xml:23:9-27:75
+136            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+136-->[com.google.android.gms:play-services-auth:20.4.1] /Users/nikki/.gradle/caches/transforms-3/333868a97f8edf7303b3e7ccb8754c15/transformed/play-services-auth-20.4.1/AndroidManifest.xml:24:13-93
+137            android:excludeFromRecents="true"
+137-->[com.google.android.gms:play-services-auth:20.4.1] /Users/nikki/.gradle/caches/transforms-3/333868a97f8edf7303b3e7ccb8754c15/transformed/play-services-auth-20.4.1/AndroidManifest.xml:25:13-46
+138            android:exported="false"
+138-->[com.google.android.gms:play-services-auth:20.4.1] /Users/nikki/.gradle/caches/transforms-3/333868a97f8edf7303b3e7ccb8754c15/transformed/play-services-auth-20.4.1/AndroidManifest.xml:26:13-37
+139            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+139-->[com.google.android.gms:play-services-auth:20.4.1] /Users/nikki/.gradle/caches/transforms-3/333868a97f8edf7303b3e7ccb8754c15/transformed/play-services-auth-20.4.1/AndroidManifest.xml:27:13-72
+140        <!--
+141            Service handling Google Sign-In user revocation. For apps that do not integrate with
+142            Google Sign-In, this service will never be started.
+143        -->
+144        <service
+144-->[com.google.android.gms:play-services-auth:20.4.1] /Users/nikki/.gradle/caches/transforms-3/333868a97f8edf7303b3e7ccb8754c15/transformed/play-services-auth-20.4.1/AndroidManifest.xml:33:9-37:51
+145            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+145-->[com.google.android.gms:play-services-auth:20.4.1] /Users/nikki/.gradle/caches/transforms-3/333868a97f8edf7303b3e7ccb8754c15/transformed/play-services-auth-20.4.1/AndroidManifest.xml:34:13-89
+146            android:exported="true"
+146-->[com.google.android.gms:play-services-auth:20.4.1] /Users/nikki/.gradle/caches/transforms-3/333868a97f8edf7303b3e7ccb8754c15/transformed/play-services-auth-20.4.1/AndroidManifest.xml:35:13-36
+147            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+147-->[com.google.android.gms:play-services-auth:20.4.1] /Users/nikki/.gradle/caches/transforms-3/333868a97f8edf7303b3e7ccb8754c15/transformed/play-services-auth-20.4.1/AndroidManifest.xml:36:13-107
+148            android:visibleToInstantApps="true" />
+148-->[com.google.android.gms:play-services-auth:20.4.1] /Users/nikki/.gradle/caches/transforms-3/333868a97f8edf7303b3e7ccb8754c15/transformed/play-services-auth-20.4.1/AndroidManifest.xml:37:13-48
+149
+150        <activity
+150-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:27:9-44:20
+151            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+151-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:28:13-80
+152            android:excludeFromRecents="true"
+152-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:29:13-46
+153            android:exported="true"
+153-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:30:13-36
+154            android:launchMode="singleTask"
+154-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:31:13-44
+155            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+155-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:32:13-72
+156            <intent-filter>
+156-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:33:13-43:29
+157                <action android:name="android.intent.action.VIEW" />
+157-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:40:17-69
+157-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:40:25-66
+158
+159                <category android:name="android.intent.category.DEFAULT" />
+159-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:42:17-76
+159-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:42:27-73
+160                <category android:name="android.intent.category.BROWSABLE" />
+160-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:43:17-78
+160-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:43:27-75
+161
+162                <data
+162-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:45:17-47:50
+163                    android:host="firebase.auth"
+163-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:46:21-56
+164                    android:path="/"
+165                    android:scheme="genericidp" />
+165-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:47:21-47
+166            </intent-filter>
+167        </activity>
+168        <activity
+168-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:45:9-62:20
+169            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+169-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:46:13-79
+170            android:excludeFromRecents="true"
+170-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:47:13-46
+171            android:exported="true"
+171-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:48:13-36
+172            android:launchMode="singleTask"
+172-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:49:13-44
+173            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+173-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:50:13-72
+174            <intent-filter>
+174-->[com.google.firebase:firebase-auth:21.1.0] /Users/nikki/.gradle/caches/transforms-3/1290be5d6d85463b76a8aa342bc55f21/transformed/firebase-auth-21.1.0/AndroidManifest.xml:51:13-61:29
+175                <action android:name="android.intent.action.VIEW" />
+175-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:40:17-69
+175-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:40:25-66
+176
+177                <category android:name="android.intent.category.DEFAULT" />
+177-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:42:17-76
+177-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:42:27-73
+178                <category android:name="android.intent.category.BROWSABLE" />
+178-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:43:17-78
+178-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:43:27-75
+179
+180                <data
+180-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:45:17-47:50
+181                    android:host="firebase.auth"
+181-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:46:21-56
+182                    android:path="/"
+183                    android:scheme="recaptcha" />
+183-->[com.facebook.android:facebook-common:14.1.0] /Users/nikki/.gradle/caches/transforms-3/dea89466ad50ace9b80fd074e50daddd/transformed/facebook-common-14.1.0/AndroidManifest.xml:47:21-47
+184            </intent-filter>
+185        </activity>
+186        <activity
+186-->[com.google.android.gms:play-services-base:18.0.1] /Users/nikki/.gradle/caches/transforms-3/16cc264bc3b652127d19711d50586224/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+187            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+187-->[com.google.android.gms:play-services-base:18.0.1] /Users/nikki/.gradle/caches/transforms-3/16cc264bc3b652127d19711d50586224/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+188            android:exported="false"
+188-->[com.google.android.gms:play-services-base:18.0.1] /Users/nikki/.gradle/caches/transforms-3/16cc264bc3b652127d19711d50586224/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+189            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+189-->[com.google.android.gms:play-services-base:18.0.1] /Users/nikki/.gradle/caches/transforms-3/16cc264bc3b652127d19711d50586224/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+190
+191        <provider
+191-->[com.google.firebase:firebase-common:20.3.2] /Users/nikki/.gradle/caches/transforms-3/c8231adaa8101a158aa1fbc65dfd52fb/transformed/firebase-common-20.3.2/AndroidManifest.xml:25:9-30:39
+192            android:name="com.google.firebase.provider.FirebaseInitProvider"
+192-->[com.google.firebase:firebase-common:20.3.2] /Users/nikki/.gradle/caches/transforms-3/c8231adaa8101a158aa1fbc65dfd52fb/transformed/firebase-common-20.3.2/AndroidManifest.xml:26:13-77
+193            android:authorities="com.academica.academic_ponpes.firebaseinitprovider"
+193-->[com.google.firebase:firebase-common:20.3.2] /Users/nikki/.gradle/caches/transforms-3/c8231adaa8101a158aa1fbc65dfd52fb/transformed/firebase-common-20.3.2/AndroidManifest.xml:27:13-72
+194            android:directBootAware="true"
+194-->[com.google.firebase:firebase-common:20.3.2] /Users/nikki/.gradle/caches/transforms-3/c8231adaa8101a158aa1fbc65dfd52fb/transformed/firebase-common-20.3.2/AndroidManifest.xml:28:13-43
+195            android:exported="false"
+195-->[com.google.firebase:firebase-common:20.3.2] /Users/nikki/.gradle/caches/transforms-3/c8231adaa8101a158aa1fbc65dfd52fb/transformed/firebase-common-20.3.2/AndroidManifest.xml:29:13-37
+196            android:initOrder="100" />
+196-->[com.google.firebase:firebase-common:20.3.2] /Users/nikki/.gradle/caches/transforms-3/c8231adaa8101a158aa1fbc65dfd52fb/transformed/firebase-common-20.3.2/AndroidManifest.xml:30:13-36
+197
+198        <receiver
+198-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:29:9-33:20
+199            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+199-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:30:13-85
+200            android:enabled="true"
+200-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:31:13-35
+201            android:exported="false" >
+201-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:32:13-37
+202        </receiver>
+203
+204        <service
+204-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:35:9-38:40
+205            android:name="com.google.android.gms.measurement.AppMeasurementService"
+205-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:36:13-84
+206            android:enabled="true"
+206-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:37:13-35
+207            android:exported="false" />
+207-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:38:13-37
+208        <service
+208-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:39:9-43:72
+209            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+209-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:40:13-87
+210            android:enabled="true"
+210-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:41:13-35
+211            android:exported="false"
+211-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:42:13-37
+212            android:permission="android.permission.BIND_JOB_SERVICE" />
+212-->[com.google.android.gms:play-services-measurement:21.2.1] /Users/nikki/.gradle/caches/transforms-3/80bb8f6bc49fd2ab31640eeed55053fc/transformed/play-services-measurement-21.2.1/AndroidManifest.xml:43:13-69
+213
+214        <meta-data
+214-->[com.google.android.gms:play-services-basement:18.1.0] /Users/nikki/.gradle/caches/transforms-3/2fde68f0a2d65983dbbde94ce76f6632/transformed/play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+215            android:name="com.google.android.gms.version"
+215-->[com.google.android.gms:play-services-basement:18.1.0] /Users/nikki/.gradle/caches/transforms-3/2fde68f0a2d65983dbbde94ce76f6632/transformed/play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+216            android:value="@integer/google_play_services_version" />
+216-->[com.google.android.gms:play-services-basement:18.1.0] /Users/nikki/.gradle/caches/transforms-3/2fde68f0a2d65983dbbde94ce76f6632/transformed/play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+217        <!--
+218         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+219         with the application context. This config is merged in with the host app's manifest,
+220         but there can only be one provider with the same authority activated at any given
+221         point; so if the end user has two or more different apps that use Facebook SDK, only the
+222         first one will be able to use the provider. To work around this problem, we use the
+223         following placeholder in the authority to identify each host application as if it was
+224         a completely different provider.
+225        -->
+226        <provider
+226-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:41:9-44:40
+227            android:name="com.facebook.internal.FacebookInitProvider"
+227-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:42:13-70
+228            android:authorities="com.academica.academic_ponpes.FacebookInitProvider"
+228-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:43:13-72
+229            android:exported="false" />
+229-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:44:13-37
+230
+231        <receiver
+231-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:46:9-52:20
+232            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+232-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:47:13-86
+233            android:exported="false" >
+233-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:48:13-37
+234            <intent-filter>
+234-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:49:13-51:29
+235                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+235-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:50:17-95
+235-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:50:25-92
+236            </intent-filter>
+237        </receiver>
+238        <receiver
+238-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:53:9-59:20
+239            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+239-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:54:13-118
+240            android:exported="false" >
+240-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:55:13-37
+241            <intent-filter>
+241-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:56:13-58:29
+242                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+242-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:57:17-103
+242-->[com.facebook.android:facebook-core:14.1.0] /Users/nikki/.gradle/caches/transforms-3/c0304d0a230a29e172f4c41377bfb0da/transformed/facebook-core-14.1.0/AndroidManifest.xml:57:25-100
+243            </intent-filter>
+244        </receiver>
+245
+246        <uses-library
+246-->[androidx.window:window:1.0.0] /Users/nikki/.gradle/caches/transforms-3/fbf83014cdbb6dcd43fb064b81bdeb74/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+247            android:name="androidx.window.extensions"
+247-->[androidx.window:window:1.0.0] /Users/nikki/.gradle/caches/transforms-3/fbf83014cdbb6dcd43fb064b81bdeb74/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+248            android:required="false" />
+248-->[androidx.window:window:1.0.0] /Users/nikki/.gradle/caches/transforms-3/fbf83014cdbb6dcd43fb064b81bdeb74/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+249        <uses-library
+249-->[androidx.window:window:1.0.0] /Users/nikki/.gradle/caches/transforms-3/fbf83014cdbb6dcd43fb064b81bdeb74/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+250            android:name="androidx.window.sidecar"
+250-->[androidx.window:window:1.0.0] /Users/nikki/.gradle/caches/transforms-3/fbf83014cdbb6dcd43fb064b81bdeb74/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+251            android:required="false" />
+251-->[androidx.window:window:1.0.0] /Users/nikki/.gradle/caches/transforms-3/fbf83014cdbb6dcd43fb064b81bdeb74/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+252
+253        <provider
+253-->[androidx.emoji2:emoji2:1.2.0] /Users/nikki/.gradle/caches/transforms-3/61929bd650de67c0f38c49b91d53ea32/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+254            android:name="androidx.startup.InitializationProvider"
+254-->[androidx.emoji2:emoji2:1.2.0] /Users/nikki/.gradle/caches/transforms-3/61929bd650de67c0f38c49b91d53ea32/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+255            android:authorities="com.academica.academic_ponpes.androidx-startup"
+255-->[androidx.emoji2:emoji2:1.2.0] /Users/nikki/.gradle/caches/transforms-3/61929bd650de67c0f38c49b91d53ea32/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+256            android:exported="false" >
+256-->[androidx.emoji2:emoji2:1.2.0] /Users/nikki/.gradle/caches/transforms-3/61929bd650de67c0f38c49b91d53ea32/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+257            <meta-data
+257-->[androidx.emoji2:emoji2:1.2.0] /Users/nikki/.gradle/caches/transforms-3/61929bd650de67c0f38c49b91d53ea32/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+258                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+258-->[androidx.emoji2:emoji2:1.2.0] /Users/nikki/.gradle/caches/transforms-3/61929bd650de67c0f38c49b91d53ea32/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+259                android:value="androidx.startup" />
+259-->[androidx.emoji2:emoji2:1.2.0] /Users/nikki/.gradle/caches/transforms-3/61929bd650de67c0f38c49b91d53ea32/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+260            <meta-data
+260-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nikki/.gradle/caches/transforms-3/a6f3a7525160ea1df3baf5b3aed5d591/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+261                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+261-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nikki/.gradle/caches/transforms-3/a6f3a7525160ea1df3baf5b3aed5d591/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+262                android:value="androidx.startup" />
+262-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nikki/.gradle/caches/transforms-3/a6f3a7525160ea1df3baf5b3aed5d591/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+263        </provider>
+264        <provider
+264-->[com.squareup.picasso:picasso:2.8] /Users/nikki/.gradle/caches/transforms-3/23cc22433d0a0ffb1c8f9f23179b918d/transformed/picasso-2.8/AndroidManifest.xml:8:9-11:40
+265            android:name="com.squareup.picasso.PicassoProvider"
+265-->[com.squareup.picasso:picasso:2.8] /Users/nikki/.gradle/caches/transforms-3/23cc22433d0a0ffb1c8f9f23179b918d/transformed/picasso-2.8/AndroidManifest.xml:9:13-64
+266            android:authorities="com.academica.academic_ponpes.com.squareup.picasso"
+266-->[com.squareup.picasso:picasso:2.8] /Users/nikki/.gradle/caches/transforms-3/23cc22433d0a0ffb1c8f9f23179b918d/transformed/picasso-2.8/AndroidManifest.xml:10:13-72
+267            android:exported="false" />
+267-->[com.squareup.picasso:picasso:2.8] /Users/nikki/.gradle/caches/transforms-3/23cc22433d0a0ffb1c8f9f23179b918d/transformed/picasso-2.8/AndroidManifest.xml:11:13-37
+268    </application>
+269
+270</manifest>

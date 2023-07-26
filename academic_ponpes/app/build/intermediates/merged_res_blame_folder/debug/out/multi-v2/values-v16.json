@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.academica.academic_ponpes.app-mergeDebugResources-57:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/682034779a8141021edc43d0a3e71596/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/nikki/.gradle/caches/transforms-3/99b9cba495a18c085f2761c30c0d344f/transformed/core-1.9.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
