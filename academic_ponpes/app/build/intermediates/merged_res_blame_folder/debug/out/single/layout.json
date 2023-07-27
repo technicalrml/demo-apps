@@ -24,6 +24,10 @@
         "source": "com.sourcey.materiallogindemo.app-main-61:/layout/activity_siswa.xml"
     },
     {
+        "merged": "com.sourcey.materiallogindemo.app-mergeDebugResources-58:/layout/layout_tes.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-61:/layout/layout_tes.xml"
+    },
+    {
         "merged": "com.sourcey.materiallogindemo.app-mergeDebugResources-58:/layout/dialog_add_siswa.xml",
         "source": "com.sourcey.materiallogindemo.app-main-61:/layout/dialog_add_siswa.xml"
     },

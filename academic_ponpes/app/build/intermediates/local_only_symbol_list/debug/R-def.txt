@@ -31,6 +31,7 @@ drawable information
 drawable jar
 drawable missing
 drawable receipt
+drawable scholarship
 drawable score
 drawable shape_button
 drawable shape_text_input
@@ -92,6 +93,7 @@ layout dialog_add_siswa
 layout layout_absensi
 layout layout_siswa
 layout layout_tabungan
+layout layout_tes
 menu menu_siswa
 mipmap ic_launcher
 mipmap ic_launcher_foreground

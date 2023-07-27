@@ -24,6 +24,10 @@
         "source": "com.sourcey.materiallogindemo.app-debug-60:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_layout_tes.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-61:/layout/layout_tes.xml"
+    },
+    {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/menu_menu_siswa.xml.flat",
         "source": "com.sourcey.materiallogindemo.app-main-61:/menu/menu_siswa.xml"
     },
@@ -34,6 +38,10 @@
     {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
         "source": "com.sourcey.materiallogindemo.app-debug-60:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_scholarship.png.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-61:/drawable/scholarship.png"
     },
     {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/xml_backup_rules.xml.flat",

@@ -4,7 +4,7 @@
             "outputFile": "com.sourcey.materiallogindemo.app-mergeDebugResources-57:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Volumes/DATA/DexGuard/academic_ponpes/app/src/main/res/values-night/themes.xml",
+                    "source": "/Volumes/DATA/DexGuard/applicaiton/demo-apps/academic_ponpes/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
