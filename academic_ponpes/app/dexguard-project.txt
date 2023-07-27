@@ -99,9 +99,10 @@
 
 -obfuscatecode,high class com.sourcey.materiallogindemo.core.retrofit.RetrofitClient
 
--encryptstrings class com.sourcey.materiallogindemo.core.retrofit.RetrofitClient{
-    final java.lang.String baseUrl;
-}
+-encryptstrings "https://www.urldummy.com/"
 
 -encryptresourcefiles res/values*/string.xml
 -encryptresourcefiles res/layout*/layout_tes.xml
+
+-raspchecks virtualenvironment, emulator, root, hook
+-raspcontinueon none
