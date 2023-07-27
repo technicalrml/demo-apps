@@ -12,7 +12,7 @@
 		"result": "SUCCESS",
 		"build_platform_version": "33",
 		"min_mobile_platform_version": "21",
-		"processing_time_ms": 390070,
+		"processing_time_ms": 354248,
 		"features": [
 			{
 				"name": "DEX_NAME_OBFUSCATION",
@@ -22,2509 +22,2509 @@
 				"active": true,
 				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
 				"metrics": {
-					"classes": 6350,
-					"classes-total": 6641,
-					"fields": 17545,
-					"fields-total": 18141,
-					"methods": 20861,
-					"methods-total": 22007
+					"classes": 6356,
+					"classes-total": 6649,
+					"fields": 17635,
+					"fields-total": 18231,
+					"methods": 20903,
+					"methods-total": 22056
 				},
-				"score": 0.9955360232287712,
+				"score": 0.995525650854181,
 				"filters": [
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 134
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 3
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 36
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 36
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 15
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 52
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 347
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 9
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 336
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 336
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 336
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 336
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 336
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 336
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 27
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 599
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
-						"matched": 0
-					},
-					{
-						"type": "DENYLIST_STRUCTURED",
-						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
-						"matched": 0
-					},
-					{
-						"type": "DENYLIST_STRUCTURED",
-						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
-						"matched": 0
-					},
-					{
-						"type": "DENYLIST_STRUCTURED",
-						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
-						"matched": 0
-					},
-					{
-						"type": "DENYLIST_STRUCTURED",
-						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
-						"matched": 0
-					},
-					{
-						"type": "DENYLIST_STRUCTURED",
-						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
-						"matched": 0
-					},
-					{
-						"type": "DENYLIST_STRUCTURED",
-						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
-						"matched": 0
-					},
-					{
-						"type": "DENYLIST_STRUCTURED",
-						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
-						"matched": 0
-					},
-					{
-						"type": "DENYLIST_STRUCTURED",
-						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
-						"matched": 1
-					},
-					{
-						"type": "DENYLIST_STRUCTURED",
-						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
-						"matched": 1
-					},
-					{
-						"type": "DENYLIST_STRUCTURED",
-						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
-						"matched": 0
-					},
-					{
-						"type": "DENYLIST_STRUCTURED",
-						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 179743,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179743,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179743,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179743,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179743,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 15001,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 15001,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 15001,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179743,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179743,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179743,
 						"matched": 493
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 36
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 6
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 15
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 16
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 23
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 23
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 16
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 267
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 267
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 134
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 58
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 10
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 4
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 14
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 324
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 538
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 75
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 14
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 30
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 36
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 4
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 74
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 8
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 31
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 27
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 2
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 7
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 36
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 75
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 2
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 4
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 8
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "CONSUMER_RULE",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 13
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 44438
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1740
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 131
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 2
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 599
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 311
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 2
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 4914
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1541
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 12
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 77133
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 32
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 2
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 3
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 75
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 61
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
-						"matched": 22590
+						"invoked": 179743,
+						"matched": 22604
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 25
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 4
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 493
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 36
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 2706
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 49475
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 17
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 2
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 3788
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 5
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 4
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 4
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 467
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "DENYLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					}
 				]
@@ -2688,8 +2688,8 @@
 				"active": true,
 				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
 				"metrics": {
-					"resources": 2497,
-					"resources-total": 2497
+					"resources": 2496,
+					"resources-total": 2496
 				},
 				"score": 1,
 				"filters": [
@@ -2987,43 +2987,43 @@
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					}
 				]
@@ -3033,6 +3033,7 @@
 				"type": "DENYLIST",
 				"configured_value": "OMITTED",
 				"default_enabled": true,
+				"active": true,
 				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
 				"metrics": {
 					"bitguard-processing-time": 0,
@@ -3057,7 +3058,8 @@
 					"target-classes": 2556,
 					"trampolines": 0,
 					"unsupported-instructions": 0
-				}
+				},
+				"score": 1
 			},
 			{
 				"name": "DEX_CODE_VIRTUALIZATION",
@@ -3072,13 +3074,13 @@
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 179698,
+						"invoked": 179743,
 						"matched": 0
 					}
 				]
@@ -3092,7 +3094,8 @@
 			{
 				"name": "DEX_STRING_ENCRYPTION",
 				"type": "ALLOWLIST",
-				"configured_value": "DISABLED",
+				"configured_value": "ENABLED",
+				"active": true,
 				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
 				"metrics": {
 					"strings": 0,
@@ -3109,19 +3112,25 @@
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 49131,
+						"invoked": 49132,
 						"matched": 0
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 49131,
+						"invoked": 49132,
 						"matched": 0
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 49131,
+						"invoked": 49132,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 49132,
 						"matched": 0
 					}
 				]
@@ -3181,12 +3190,28 @@
 			{
 				"name": "DEX_RESOURCE_FILE_ENCRYPTION",
 				"type": "ALLOWLIST",
-				"configured_value": "DISABLED",
+				"configured_value": "ENABLED",
+				"active": true,
 				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
 				"metrics": {
 					"resources-files": 0,
 					"resources-files-total": 0
-				}
+				},
+				"score": 1,
+				"filters": [
+					{
+						"type": "ALLOWLIST",
+						"origin": "USER_DEFINED",
+						"invoked": 931,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST",
+						"origin": "USER_DEFINED",
+						"invoked": 931,
+						"matched": 1
+					}
+				]
 			},
 			{
 				"name": "DEX_METADATA_ENCRYPTION",
@@ -3213,343 +3238,343 @@
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "DEFAULT_CONFIGURATION",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 0
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 3980
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 325
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 3330
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 114
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 70
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					},
 					{
 						"type": "ALLOWLIST_STRUCTURED",
 						"origin": "USER_DEFINED",
-						"invoked": 14996,
+						"invoked": 15001,
 						"matched": 1
 					}
 				]
@@ -3667,10 +3692,11 @@
 			}
 		],
 		"auto_config": "UNSPECIFIED_ENABLED_VALUE",
-		"kpi_app_ip_safety": 0.11749432802121516,
-		"kpi_app_capabilities_and_monetization": 0.13858605945913413,
+		"kpi_app_ip_safety": 0.11749371788153339,
+		"kpi_app_capabilities_and_monetization": 0.13858519509458495,
 		"kpi_app_data_leak_and_forgery_safety": 0.03391940738002132,
 		"triggered_rules": [
+			"report_ineffective_filter/dex_string_encryption",
 			"report_no_runtime_threat_monitoring"
 		],
 		"metadata": {
