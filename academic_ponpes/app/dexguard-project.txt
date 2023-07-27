@@ -1,11 +1,8 @@
 -verbose
 
-
-
 -encryptclasses com.google.android.gms.internal.firebase-auth-api.zzoh
 -encryptclasses com.google.android.gms.internal.firebase-auth-api.zzacs
 -encryptclasses com.google.android.gms.measurement.internal.zzln
-
 -encryptclasses com.facebook.AccessTokenManager$Companion
 -encryptclasses com.google.firebase.installations.local.IidStore
 -encryptclasses com.facebook.internal.security.CertificateUtil
@@ -17,6 +14,50 @@
 -encryptclasses com.facebook.AccessTokenManager$RefreshResult
 -encryptclasses com.facebook.AccessTokenManager$RefreshTokenInfo
 -encryptclasses com.facebook.AccessTokenManager
+-encryptclasses com.facebook.login.DeviceAuthDialog
+-encryptclasses com.google.android.gms.internal.measurement.zznl
+-encryptclasses com.google.android.gms.ads.identifier.zza
+-encryptclasses com.facebook.internal.Utility
+-encryptclasses com.facebook.FacebookSdk
+-encryptclasses com.google.android.gms.auth.api.signin.GoogleSignInOptions
+-encryptclasses com.facebook.internal.Validate
+-encryptclasses androidx.fragment.app.Fragment
+-encryptclasses com.google.android.gms.internal.firebase-auth-api.zzna
+-encryptclasses androidx.core.view.WindowInsetsCompat$Impl20
+-encryptclasses com.google.android.gms.internal.firebase-auth-api.zzaex
+-encryptclasses com.google.android.gms.internal.measurement.zzmx
+-encryptclasses com.google.android.gms.internal.firebase-auth-api.zzafx
+-encryptclasses com.google.android.gms.internal.measurement.zznu
+-encryptclasses com.google.firebase.concurrent.SequentialExecutor$QueueWorker
+-encryptclasses com.google.android.gms.internal.firebase-auth-api.zzaft
+-encryptclasses androidx.**
+-encryptclasses okhttp3..**
+-encryptclasses com.google.android.gms.**
+-encryptclasses retrofit2.**
+-encryptclasses okio.**
+
+#-encryptstrings com.google.android.gms.internal.measurement.zzoi
+#-encryptstrings com.google.android.gms.**
+#-encryptstrings androidx.**
+#-encryptstrings "https://www.googleapis.com/auth/games_lite"
+#-encryptstrings "https://app-measurement.com/a"
+#-encryptstrings "https://www.googleapis.com/auth/games"
+
+-assumenosideeffects class kotlin.jvm.internal.Intrinsics {
+    public static void checkNotNull(...);
+    public static void checkExpressionValueIsNotNull(...);
+    public static void checkNotNullExpressionValue(...);
+    public static void checkParameterIsNotNull(...);
+    public static void checkNotNullParameter(...);
+    public static void checkReturnedValueIsNotNull(...);
+    public static void checkFieldIsNotNull(...);
+    public static void throwUninitializedPropertyAccessException(...);
+    public static void throwNpe(...);
+    public static void throwJavaNpe(...);
+    public static void throwAssert(...);
+    public static void throwIllegalArgument(...);
+    public static void throwIllegalState(...);
+}
 
 -assumenosideeffects class android.util.Log {
     public static boolean isLoggable(java.lang.String, int);
@@ -27,7 +68,5 @@
     public static int e(...);
 }
 
-
-
-
+-encryptnativelibraries lib/**/**
 

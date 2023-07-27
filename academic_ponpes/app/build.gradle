@@ -11,7 +11,7 @@ android {
 
     signingConfigs {
         debug {
-            storeFile     file('/Volumes/DATA/DexGuard/DexGuard-9.4.14/samples/debug.keystore')
+            storeFile     file('/Users/rml/Desktop/Rizky Pradana Putra/debug.keystore')
             storePassword 'android'
             keyAlias      'androiddebugkey'
             keyPassword   'android'
@@ -96,12 +96,14 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 
+    
+
 
 
     //Dexguard
     dexguard {
-        path = "/Volumes/DATA/Dexguard/DexGuard-9.4.14"
-        license = "/Volumes/DATA/Dexguard/dexguard-license.txt"
+        path = "/Users/rml/Desktop/Rizky Pradana Putra/DexGuard Versi/DexGuard-9.4.14"
+        license = "/Users/rml/Desktop/Rizky Pradana Putra/dexguard-license.txt"
         configurations {
             register("release") {
                 defaultConfiguration("dexguard-release.pro")
