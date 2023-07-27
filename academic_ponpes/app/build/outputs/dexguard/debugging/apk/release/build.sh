@@ -1,24 +1,24 @@
 #!/bin/sh
 
-/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home/bin/java \
-	-Ddexguard.license=/Volumes/DATA/Dexguard/dexguard-license.txt \
+/Users/rml/Library/Java/JavaVirtualMachines/jbr-17.0.7/Contents/Home/bin/java \
+	-Ddexguard.license=/Users/rml/Desktop/Rizky Pradana Putra/dexguard-license.txt \
 	-Dfile.encoding=UTF-8 \
-	-Duser.country=ID \
+	-Duser.country=SG \
 	-Duser.language=en \
 	-Duser.variant \
 	-cp \
-	/Volumes/DATA/Dexguard/DexGuard-9.4.14/lib/dexguard.jar \
+	/Users/rml/Desktop/Rizky Pradana Putra/DexGuard Versi/DexGuard-9.4.14/lib/dexguard.jar \
 	com.guardsquare.dexguard.aOs \
 	-injars \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/apk/release/app-release.apk' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/apk/release/app-release.apk' \
 	-include \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/configs/release/libraryjars.pro' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/configs/release/libraryjars.pro' \
 	-include \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/configs/release/consumer-rules.pro' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/configs/release/consumer-rules.pro' \
 	-outjars \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/apk/release/app-release-protected.apk' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/apk/release/app-release-protected.apk' \
 	-printconfiguration \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/debugging/apk/release/fullconfig.pro' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/debugging/apk/release/fullconfig.pro' \
 	-telemetrydata \
 	gradle \
 	7.4 \
@@ -27,52 +27,52 @@
 	7.3.0 \
 	-telemetrydata \
 	java \
-	20 \
+	17 \
 	-telemetrydata \
 	jvm \
-	20.0.1+9-29 \
+	17.0.7+7-b1000.6 \
 	-protectionreportdirectory \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/reports/apk/release' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/reports/apk/release' \
 	-intermediatedirectory,allowoverwrite \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/bitguard/apk/release' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/bitguard/apk/release' \
 	-libraryjars \
-	'/Users/nikki/Library/Android/sdk/platforms/android-33/android.jar' \
+	'/Users/rml/Library/Android/sdk/platforms/android-33/android.jar' \
 	-include \
 	/lib/dexguard-release.pro \
 	-printmaindexlist \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/maindexlist.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/maindexlist.txt' \
 	-printseeds \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/seeds.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/seeds.txt' \
 	-printusage \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/usage.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/usage.txt' \
 	-printresourceusage \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/resourceusage.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/resourceusage.txt' \
 	-printmapping \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/mapping.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/mapping.txt' \
 	-printresourcefilenamemapping \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/resourcefilenamemapping.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/resourcefilenamemapping.txt' \
 	-printresourcemapping \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/resourcemapping.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/resourcemapping.txt' \
 	-printclassencryption \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/classencryption.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/classencryption.txt' \
 	-printstringencryption \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/stringencryption.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/stringencryption.txt' \
 	-printassetencryption \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/assetencryption.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/assetencryption.txt' \
 	-printresourceencryption \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/resourceencryption.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/resourceencryption.txt' \
 	-printnativelibraryencryption \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/nativelibraryencryption.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/nativelibraryencryption.txt' \
 	-printinjectmapping \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/injectmapping.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/injectmapping.txt' \
 	-printthreatcastmapping \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/threatcast-mapping.yml' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/threatcast-mapping.yml' \
 	-printnatificationmapping \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/natificationmapping.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/natificationmapping.txt' \
 	-printcodepushmapping \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/codepushmapping.txt' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/build/outputs/dexguard/mapping/apk/release/codepushmapping.txt' \
 	-keystore \
-	'/Volumes/DATA/DexGuard/DexGuard-9.4.14/samples/debug.keystore' \
+	'/Users/rml/Desktop/Rizky Pradana Putra/debug.keystore' \
 	-keystorepassword \
 	android \
 	-keyalias \
@@ -82,4 +82,4 @@
 	-apksignatureschemes \
 	v1, v2 \
 	-include \
-	'/Volumes/DATA/DexGuard/academic_ponpes/app/dexguard-project.txt'
+	'/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/dexguard-project.txt'

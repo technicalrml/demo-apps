@@ -8,11 +8,11 @@
 		"product": "DEXGUARD",
 		"product_version": "9.4.14",
 		"os": "MAC",
-		"os_version": "11.7.6",
+		"os_version": "11.5.2",
 		"result": "SUCCESS",
 		"build_platform_version": "33",
 		"min_mobile_platform_version": "21",
-		"processing_time_ms": 416044,
+		"processing_time_ms": 1515600,
 		"features": [
 			{
 				"name": "DEX_NAME_OBFUSCATION",
@@ -22,14 +22,14 @@
 				"active": true,
 				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
 				"metrics": {
-					"classes": 6235,
-					"classes-total": 6528,
-					"fields": 16570,
-					"fields-total": 17166,
-					"methods": 17997,
-					"methods-total": 19167
+					"classes": 6354,
+					"classes-total": 6642,
+					"fields": 17422,
+					"fields-total": 18018,
+					"methods": 20335,
+					"methods-total": 21495
 				},
-				"score": 0.9951052804913728,
+				"score": 0.9954762062302172,
 				"filters": [
 					{
 						"type": "DENYLIST_STRUCTURED",
@@ -2688,8 +2688,8 @@
 				"active": true,
 				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
 				"metrics": {
-					"resources": 2414,
-					"resources-total": 2414
+					"resources": 2497,
+					"resources-total": 2497
 				},
 				"score": 1,
 				"filters": [
@@ -3031,7 +3031,7 @@
 					"classes-with-load-methods": 0,
 					"denylisted": 0,
 					"dontnatify-uses": 0,
-					"encryption-groups": 2,
+					"encryption-groups": 10,
 					"generated-methods": 0,
 					"lib-size-arm64-v8a": 0,
 					"lib-size-armeabi-v7a": 0,
@@ -3046,7 +3046,7 @@
 					"no-field-accesses": 0,
 					"reused-methods": 0,
 					"sequences": 0,
-					"target-classes": 4,
+					"target-classes": 2316,
 					"trampolines": 0,
 					"unsupported-instructions": 0
 				}
@@ -3121,12 +3121,14 @@
 			{
 				"name": "DEX_NATIVE_LIBRARY_ENCRYPTION",
 				"type": "ALLOWLIST",
-				"configured_value": "DISABLED",
+				"configured_value": "ENABLED",
+				"active": true,
 				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
 				"metrics": {
 					"native-libs": 0,
 					"native-libs-total": 0
 				},
+				"score": 1,
 				"filters": [
 					{
 						"type": "ALLOWLIST",
@@ -3137,6 +3139,12 @@
 					{
 						"type": "ALLOWLIST",
 						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 0,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST",
+						"origin": "USER_DEFINED",
 						"invoked": 0,
 						"matched": 0
 					}
@@ -3189,8 +3197,8 @@
 				"active": true,
 				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
 				"metrics": {
-					"classes": 13,
-					"classes-total": 6525
+					"classes": 3772,
+					"classes-total": 6618
 				},
 				"score": 1,
 				"filters": [
@@ -3283,6 +3291,132 @@
 						"origin": "USER_DEFINED",
 						"invoked": 14995,
 						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 3980
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 3330
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 114
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14995,
+						"matched": 70
 					}
 				]
 			},
@@ -3399,17 +3533,18 @@
 			}
 		],
 		"auto_config": "UNSPECIFIED_ENABLED_VALUE",
-		"kpi_app_ip_safety": 0.11735913414655134,
-		"kpi_app_capabilities_and_monetization": 0.1384809955965033,
+		"kpi_app_ip_safety": 0.11738095330765984,
+		"kpi_app_capabilities_and_monetization": 0.13851190607474032,
 		"kpi_app_data_leak_and_forgery_safety": 0.03389830508474576,
 		"triggered_rules": [
+			"report_ineffective_filter/dex_class_encryption",
 			"report_no_runtime_threat_monitoring"
 		],
 		"metadata": {
 			"agp": "7.3.0",
 			"gradle": "7.4",
-			"java": "20",
-			"jvm": "20.0.1+9-29",
+			"java": "17",
+			"jvm": "17.0.7+7-b1000.6",
 			"package-names": "[com.sourcey.materiallogindemo]",
 			"react-native-enabled": "False"
 		}

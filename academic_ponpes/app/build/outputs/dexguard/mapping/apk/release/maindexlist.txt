@@ -4,9 +4,6 @@
 === MultiDex: seed kept classes
 === MultiDex: annotations
 androidx.annotation.Keep
-androidx.coordinatorlayout.widget.CoordinatorLayout$DefaultBehavior
-androidx.lifecycle.OnLifecycleEvent
-androidx.navigation.Navigator$Name
 com.google.android.gms.common.annotation.KeepName
 com.google.android.gms.common.util.DynamiteApi
 com.google.firebase.annotations.concurrent.Background
@@ -24,32 +21,6 @@ javax.inject.Qualifier
 javax.inject.Scope
 javax.inject.Singleton
 kotlin.coroutines.jvm.internal.DebugMetadata
-retrofit2.SkipCallbackExecutor
-retrofit2.http.Body
-retrofit2.http.DELETE
-retrofit2.http.Field
-retrofit2.http.FieldMap
-retrofit2.http.FormUrlEncoded
-retrofit2.http.GET
-retrofit2.http.HEAD
-retrofit2.http.HTTP
-retrofit2.http.Header
-retrofit2.http.HeaderMap
-retrofit2.http.Headers
-retrofit2.http.Multipart
-retrofit2.http.OPTIONS
-retrofit2.http.PATCH
-retrofit2.http.POST
-retrofit2.http.PUT
-retrofit2.http.Part
-retrofit2.http.PartMap
-retrofit2.http.Path
-retrofit2.http.Query
-retrofit2.http.QueryMap
-retrofit2.http.QueryName
-retrofit2.http.Streaming
-retrofit2.http.Tag
-retrofit2.http.Url
 === MultiDex: full application classes
 === MultiDex: full kept classes
 === end of maindex

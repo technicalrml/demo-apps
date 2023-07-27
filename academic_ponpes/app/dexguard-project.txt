@@ -31,7 +31,7 @@
 -encryptclasses com.google.firebase.concurrent.SequentialExecutor$QueueWorker
 -encryptclasses com.google.android.gms.internal.firebase-auth-api.zzaft
 -encryptclasses androidx.**
--encryptclasses okhttp3..**
+-encryptclassses okhttp3.**
 -encryptclasses com.google.android.gms.**
 -encryptclasses retrofit2.**
 -encryptclasses okio.**

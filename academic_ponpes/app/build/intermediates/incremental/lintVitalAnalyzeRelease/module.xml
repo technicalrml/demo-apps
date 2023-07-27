@@ -1,12 +1,12 @@
 <lint-module
     format="1"
-    dir="/Volumes/DATA/DexGuard/academic_ponpes/app"
+    dir="/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app"
     name=":app"
     type="APP"
     maven="academic_ponpes:app:"
     gradle="7.3.0"
     buildFolder="build"
-    bootClassPath="/Users/nikki/Library/Android/sdk/platforms/android-33/android.jar:/Users/nikki/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    bootClassPath="/Users/rml/Library/Android/sdk/platforms/android-33/android.jar:/Users/rml/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-33"
     neverShrinking="true">
