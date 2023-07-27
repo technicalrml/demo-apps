@@ -16,10 +16,6 @@
         "source": "com.sourcey.materiallogindemo.app-main-60:/layout/layout_tabungan.xml"
     },
     {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_ic_baseline_arrow_back_24.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/ic_baseline_arrow_back_24.xml"
-    },
-    {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "com.sourcey.materiallogindemo.app-main-60:/mipmap-xxhdpi/ic_launcher.webp"
     },
@@ -28,20 +24,12 @@
         "source": "com.sourcey.materiallogindemo.app-main-60:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_siswa.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_siswa.xml"
-    },
-    {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "com.sourcey.materiallogindemo.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_layout_absensi.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/layout_absensi.xml"
-    },
-    {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_layout_tes.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/layout_tes.xml"
     },
     {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/menu_menu_siswa.xml.flat",
@@ -52,24 +40,12 @@
         "source": "com.sourcey.materiallogindemo.app-pngs-54:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_absensi.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_absensi.xml"
-    },
-    {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "com.sourcey.materiallogindemo.app-main-60:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_ic_baseline_edit_24.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/ic_baseline_edit_24.xml"
-    },
-    {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/xml_data_extraction_rules.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/xml/data_extraction_rules.xml"
-    },
-    {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_tabungan.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_tabungan.xml"
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_scholarship.png.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/scholarship.png"
     },
     {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/xml_backup_rules.xml.flat",
@@ -104,16 +80,8 @@
         "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/score.png"
     },
     {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_google.png.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/google.png"
-    },
-    {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_layout_siswa.xml.flat",
         "source": "com.sourcey.materiallogindemo.app-main-60:/layout/layout_siswa.xml"
-    },
-    {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_ic_baseline_logout_24.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/ic_baseline_logout_24.xml"
     },
     {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -136,12 +104,64 @@
         "source": "com.sourcey.materiallogindemo.app-main-60:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_main.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_main.xml"
-    },
-    {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "com.sourcey.materiallogindemo.app-main-60:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_bottom_table.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/bottom_table.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_login.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_siswa.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_siswa.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_layout_absensi.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/layout_absensi.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_absensi.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_absensi.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_ic_baseline_edit_24.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/xml_data_extraction_rules.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_tabungan.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_tabungan.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_google.png.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/google.png"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_ic_baseline_logout_24.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_main.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_main.xml"
     },
     {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_information.png.flat",
@@ -152,32 +172,20 @@
         "source": "com.sourcey.materiallogindemo.app-main-60:/layout/dialog_add_siswa.xml"
     },
     {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_ic_baseline_person_24.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/ic_baseline_person_24.xml"
-    },
-    {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_facebook.png.flat",
         "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/facebook.png"
-    },
-    {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_splash_screen.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_splash_screen.xml"
     },
     {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_top_table.xml.flat",
         "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/top_table.xml"
     },
     {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_bottom_table.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/bottom_table.xml"
+        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_splash_screen.xml.flat",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_splash_screen.xml"
     },
     {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_backgroud_sheet_dialog.xml.flat",
         "source": "com.sourcey.materiallogindemo.app-main-60:/drawable/backgroud_sheet_dialog.xml"
-    },
-    {
-        "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/layout_activity_login.xml.flat",
-        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/activity_login.xml"
     },
     {
         "merged": "com.sourcey.materiallogindemo.app-merged_res-59:/drawable_ic_launcher_background.xml.flat",

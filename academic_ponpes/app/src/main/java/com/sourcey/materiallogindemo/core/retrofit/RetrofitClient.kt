@@ -1,4 +1,4 @@
-package com.sourcey.tenant.core.retrofit
+package com.sourcey.materiallogindemo.core.retrofit
 
 import android.app.Activity
 import okhttp3.OkHttpClient
@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object RetrofitClient {
     lateinit var retrofit: Retrofit
-    var baseUrl = "https://ppkarangasem.com/"
+    var baseUrl = "https://www.urldummy.com/"
 
     fun getClient(activity: Activity): Retrofit {
         var  interceptor : HttpLoggingInterceptor = HttpLoggingInterceptor()

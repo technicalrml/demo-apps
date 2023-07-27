@@ -4,6 +4,10 @@
         "source": "com.sourcey.materiallogindemo.app-main-60:/layout/layout_absensi.xml"
     },
     {
+        "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/layout_tes.xml",
+        "source": "com.sourcey.materiallogindemo.app-main-60:/layout/layout_tes.xml"
+    },
+    {
         "merged": "com.sourcey.materiallogindemo.app-mergeReleaseResources-58:/layout/dialog_add_siswa.xml",
         "source": "com.sourcey.materiallogindemo.app-main-60:/layout/dialog_add_siswa.xml"
     },

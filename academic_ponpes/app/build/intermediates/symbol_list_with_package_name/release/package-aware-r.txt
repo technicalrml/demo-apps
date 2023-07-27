@@ -3743,6 +3743,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable receipt
+drawable scholarship
 drawable score
 drawable shape_button
 drawable shape_text_input
@@ -4482,6 +4483,7 @@ layout dp_example
 layout layout_absensi
 layout layout_siswa
 layout layout_tabungan
+layout layout_tes
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title

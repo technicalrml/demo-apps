@@ -1,31 +1,3685 @@
 {
 	"build_info": {
 		"input_type": "APP",
+		"bundle_id": "ac6735eac0840cf9de58dedeb80929e81c39431523ccfddde83852402608d4ac",
+		"customer_id": "AC00010174",
+		"licensee": "4fc2becee4a8206d64bbd0e60afc1993864d3caf9d437870e712e8d30cc541c0",
+		"license_package": "4fc2becee4a8206d64bbd0e60afc1993864d3caf9d437870e712e8d30cc541c0",
 		"product": "DEXGUARD",
 		"product_version": "9.4.14",
 		"os": "MAC",
-		"os_version": "11.5.2",
-		"result": "FATAL",
-		"result_error": "Unknown option '-encryptclassses' in line 34 of file '/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/dexguard-project.txt',\n  included from argument number 74\n\ncom.guardsquare.dexguard.brw: Unknown option '-encryptclassses' in line 34 of file '/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/dexguard-project.txt',\n  included from argument number 74\n\tat com.guardsquare.dexguard.bGq.d(DexGuard9.4.14:428)\n\tat com.guardsquare.dexguard.aOs.main(DexGuard9.4.14:53)\n",
-		"build_platform_version": "-1",
-		"min_mobile_platform_version": "0",
-		"processing_time_ms": 310,
+		"os_version": "11.7.6",
+		"result": "SUCCESS",
+		"build_platform_version": "33",
+		"min_mobile_platform_version": "21",
+		"processing_time_ms": 390070,
+		"features": [
+			{
+				"name": "DEX_NAME_OBFUSCATION",
+				"type": "DENYLIST",
+				"configured_value": "ENABLED",
+				"default_enabled": true,
+				"active": true,
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"classes": 6350,
+					"classes-total": 6641,
+					"fields": 17545,
+					"fields-total": 18141,
+					"methods": 20861,
+					"methods-total": 22007
+				},
+				"score": 0.9955360232287712,
+				"filters": [
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 134
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 3
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 36
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 36
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 15
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 52
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 347
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 9
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 336
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 336
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 336
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 336
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 336
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 336
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 27
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 599
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 493
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 36
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 6
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 15
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 16
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 23
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 23
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 16
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 267
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 267
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 134
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 58
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 10
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 4
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 14
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 324
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 538
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 75
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 14
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 30
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 36
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 4
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 74
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 8
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 31
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 27
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 2
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 7
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 36
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 75
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 2
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 4
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 8
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "CONSUMER_RULE",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 13
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 44438
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 1740
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 131
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 2
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 599
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 311
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 2
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 4914
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 1541
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 12
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 77133
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 32
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 2
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 3
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 75
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 61
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 22590
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 25
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 4
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 493
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 36
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 2706
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 49475
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 17
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 2
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 3788
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 5
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 4
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 4
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 467
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					}
+				]
+			},
+			{
+				"name": "DEX_RESOURCE_FILE_OBFUSCATION",
+				"type": "DENYLIST",
+				"configured_value": "ENABLED",
+				"default_enabled": true,
+				"active": true,
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"asset-files": 0,
+					"asset-files-total": 0,
+					"native-libs": 0,
+					"native-libs-total": 0,
+					"resource-files": 575,
+					"resource-files-total": 575
+				},
+				"score": 1,
+				"filters": [
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1044,
+						"matched": 2
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1042,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1041,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1041,
+						"matched": 1
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 1040,
+						"matched": 0
+					}
+				]
+			},
+			{
+				"name": "DEX_RESOURCE_OBFUSCATION",
+				"type": "DENYLIST",
+				"configured_value": "ENABLED",
+				"default_enabled": true,
+				"active": true,
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"resources": 2497,
+					"resources-total": 2497
+				},
+				"score": 1,
+				"filters": [
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					},
+					{
+						"type": "DENYLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 36703,
+						"matched": 0
+					}
+				]
+			},
+			{
+				"name": "DEX_REFLECTION",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"reflected-class-references": 0,
+					"reflected-constructor": 0,
+					"reflected-get-field": 0,
+					"reflected-invocation": 0,
+					"reflected-put-field": 0
+				}
+			},
+			{
+				"name": "DEX_CODE_OBFUSCATION",
+				"type": "ALLOWLIST",
+				"configured_value": "ENABLED",
+				"active": true,
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"methods": 5,
+					"methods-total": 80274
+				},
+				"score": 0.0006225177106288674,
+				"filters": [
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					}
+				]
+			},
+			{
+				"name": "DEX_CODE_NATIFICATION",
+				"type": "DENYLIST",
+				"configured_value": "OMITTED",
+				"default_enabled": true,
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"bitguard-processing-time": 0,
+					"classes-with-load-methods": 0,
+					"denylisted": 0,
+					"dontnatify-uses": 0,
+					"encryption-groups": 9,
+					"generated-methods": 0,
+					"lib-size-arm64-v8a": 0,
+					"lib-size-armeabi-v7a": 0,
+					"lib-size-x86": 0,
+					"lib-size-x86_64": 0,
+					"linking-time-arm64-v8a": 0,
+					"linking-time-armeabi-v7a": 0,
+					"linking-time-x86": 0,
+					"linking-time-x86_64": 0,
+					"methods": 0,
+					"methods-total": 0,
+					"no-field-accesses": 0,
+					"reused-methods": 0,
+					"sequences": 0,
+					"target-classes": 2556,
+					"trampolines": 0,
+					"unsupported-instructions": 0
+				}
+			},
+			{
+				"name": "DEX_CODE_VIRTUALIZATION",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"methods": 0,
+					"methods-total": 65208
+				},
+				"filters": [
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 179698,
+						"matched": 0
+					}
+				]
+			},
+			{
+				"name": "JAVASCRIPT",
+				"type": "TOGGLE",
+				"configured_value": "DISABLED",
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL"
+			},
+			{
+				"name": "DEX_STRING_ENCRYPTION",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"strings": 0,
+					"strings-total": 13997
+				},
+				"options": [
+					{
+						"name": "DEX_STRING_ENCRYPTION_NATIFICATION",
+						"configured_value": "OMITTED",
+						"active": true
+					}
+				],
+				"filters": [
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 49131,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 49131,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 49131,
+						"matched": 0
+					}
+				]
+			},
+			{
+				"name": "DEX_NATIVE_LIBRARY_ENCRYPTION",
+				"type": "ALLOWLIST",
+				"configured_value": "ENABLED",
+				"active": true,
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"native-libs": 0,
+					"native-libs-total": 0
+				},
+				"score": 1,
+				"filters": [
+					{
+						"type": "ALLOWLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 0,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 0,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST",
+						"origin": "USER_DEFINED",
+						"invoked": 0,
+						"matched": 0
+					}
+				]
+			},
+			{
+				"name": "DEX_ASSET_ENCRYPTION",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"asset-files": 0,
+					"asset-files-total": 2
+				}
+			},
+			{
+				"name": "DEX_RESOURCE_ENCRYPTION",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"resources": 0,
+					"resources-total": 75
+				}
+			},
+			{
+				"name": "DEX_RESOURCE_FILE_ENCRYPTION",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"resources-files": 0,
+					"resources-files-total": 0
+				}
+			},
+			{
+				"name": "DEX_METADATA_ENCRYPTION",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"metadata": 0,
+					"metadata-total": 17
+				}
+			},
+			{
+				"name": "DEX_CLASS_ENCRYPTION",
+				"type": "ALLOWLIST",
+				"configured_value": "ENABLED",
+				"active": true,
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL",
+				"metrics": {
+					"classes": 4050,
+					"classes-total": 6619
+				},
+				"score": 1,
+				"filters": [
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "DEFAULT_CONFIGURATION",
+						"invoked": 14996,
+						"matched": 0
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 3980
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 325
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 3330
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 114
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 70
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					},
+					{
+						"type": "ALLOWLIST_STRUCTURED",
+						"origin": "USER_DEFINED",
+						"invoked": 14996,
+						"matched": 1
+					}
+				]
+			},
+			{
+				"name": "DEX_PACKER",
+				"type": "TOGGLE",
+				"configured_value": "DISABLED",
+				"aggressiveness": "UNSPECIFIED_CONFIG_LEVEL"
+			},
+			{
+				"name": "DEX_TAMPER_DETECTOR",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"has_injection_config": true,
+				"aggressiveness": "MEDIUM",
+				"metrics": {
+					"injected-checks": 0,
+					"injected-checks-targets": 0,
+					"manual-checks": 0
+				}
+			},
+			{
+				"name": "DEX_CERTIFICATE_CHECKER",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"has_injection_config": true,
+				"aggressiveness": "MEDIUM",
+				"metrics": {
+					"injected-checks": 0,
+					"injected-checks-targets": 0,
+					"manual-checks": 0
+				},
+				"options": [
+					{
+						"name": "DEX_RASP_CERTIFICATE_HASH",
+						"configured_value": "DISABLED"
+					}
+				]
+			},
+			{
+				"name": "DEX_FILE_CHECKER",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"has_injection_config": true,
+				"aggressiveness": "MEDIUM",
+				"metrics": {
+					"injected-checks": 0,
+					"injected-checks-targets": 0,
+					"manual-checks": 0
+				}
+			},
+			{
+				"name": "DEX_DEBUG_DETECTOR",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"has_injection_config": true,
+				"aggressiveness": "MEDIUM",
+				"metrics": {
+					"injected-checks": 0,
+					"injected-checks-targets": 0,
+					"manual-checks": 0
+				}
+			},
+			{
+				"name": "DEX_EMULATOR_DETECTOR",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"has_injection_config": true,
+				"aggressiveness": "HIGH",
+				"metrics": {
+					"injected-checks": 0,
+					"injected-checks-targets": 0,
+					"manual-checks": 0
+				}
+			},
+			{
+				"name": "DEX_HOOK_DETECTOR",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"has_injection_config": true,
+				"continue_on_callback": true,
+				"aggressiveness": "MEDIUM",
+				"metrics": {
+					"injected-checks": 0,
+					"injected-checks-targets": 0,
+					"manual-checks": 0
+				}
+			},
+			{
+				"name": "DEX_ROOT_DETECTOR",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"has_injection_config": true,
+				"continue_on_callback": true,
+				"aggressiveness": "MEDIUM",
+				"metrics": {
+					"injected-checks": 0,
+					"injected-checks-targets": 0,
+					"manual-checks": 0
+				}
+			},
+			{
+				"name": "DEX_VIRTUAL_ENVIRONMENT_DETECTOR",
+				"type": "ALLOWLIST",
+				"configured_value": "DISABLED",
+				"has_injection_config": true,
+				"continue_on_callback": true,
+				"aggressiveness": "MEDIUM",
+				"metrics": {
+					"injected-checks": 0,
+					"injected-checks-targets": 0,
+					"manual-checks": 0
+				}
+			}
+		],
 		"auto_config": "UNSPECIFIED_ENABLED_VALUE",
+		"kpi_app_ip_safety": 0.11749432802121516,
+		"kpi_app_capabilities_and_monetization": 0.13858605945913413,
+		"kpi_app_data_leak_and_forgery_safety": 0.03391940738002132,
 		"triggered_rules": [
 			"report_no_runtime_threat_monitoring"
 		],
 		"metadata": {
 			"agp": "7.3.0",
 			"gradle": "7.4",
-			"java": "17",
-			"jvm": "17.0.7+7-b1000.6"
-		},
-		"build_error": {
-			"message": "Unknown option '-encryptclassses' in line 34 of file '/Users/rml/Desktop/Rizky Pradana Putra/demo-apps/academic_ponpes/app/dexguard-project.txt',\n  included from argument number 74",
-			"componentID": 5000,
-			"parameters": null,
-			"passID": 0,
-			"type": "EXTERNAL"
+			"java": "20",
+			"jvm": "20.0.1+9-29",
+			"package-names": "[com.sourcey.materiallogindemo]",
+			"react-native-enabled": "False"
 		}
 	}
 }

@@ -26963,6 +26963,28 @@ com.guardsquare.dexguard.bOX:
     16:16:public bridge synthetic java.io.InputStream decryptClasses$c1(java.io.InputStream,java.lang.Object,java.lang.Object)
 com.guardsquare.dexguard.bOZ:
     15:15:public bridge synthetic java.io.InputStream decryptClasses$c5(java.io.InputStream,java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.bPG:
+    22:23:public void initialize(long)
+    31:46:public byte[] encryptResource(byte[],int,java.lang.String)
+    73:80:private static boolean a(int)
+    97:101:private static void a(int,byte[],int)
+com.guardsquare.dexguard.bPH:
+    private static final int e$r1
+    private static final int d$r2
+    31:37:public void initialize(long)
+    45:80:public byte[] encryptResource(byte[],int,java.lang.String)
+    120:144:private byte[] e(byte[],int[])
+com.guardsquare.dexguard.bPJ:
+    private static final int a$r4
+    private static final int c$r5
+    38:43:public void initialize(long)
+    51:79:public byte[] encryptResource(byte[],int,java.lang.String)
+    114:139:private byte[] a(byte[])
+com.guardsquare.dexguard.bPK:
+    private java.security.SecureRandom a$r11
+    39:49:public void initialize(long)
+    55:99:public byte[] encryptResource(byte[],int,java.lang.String)
+    184:184:private static byte[] b(int)
 com.guardsquare.dexguard.bPO:
     14:14:public bridge synthetic java.lang.String decryptString$s1(java.lang.Object,java.lang.Object)
 com.guardsquare.dexguard.bPS:
@@ -27045,6 +27067,10 @@ com.guardsquare.dexguard.encryption.nativelibrary.NativeLibraryEncryptionPlugin:
     145:145:public java.lang.Object createNativeLibraryEncryptionKey(java.lang.Object,long,java.lang.String,long)
     public abstract java.io.OutputStream encryptNativeLibrary(java.io.OutputStream,java.lang.Object,java.lang.Object)
     public abstract java.io.InputStream decryptNativeLibrary(java.io.InputStream,java.lang.Object,java.lang.Object)
+com.guardsquare.dexguard.encryption.resource.ResourceEncryptionPlugin:
+    69:69:public void initialize(long)
+    public abstract byte[] encryptResource(byte[],int,java.lang.String)
+    public abstract byte[] decryptResource(byte[],int,java.lang.String)
 com.guardsquare.dexguard.encryption.string.StringEncryptionPlugin:
     105:105:public java.lang.Object createStringSharedEncryptionKey(long,java.util.Set)
     public abstract java.lang.Object encryptString(java.lang.Object,long,java.lang.String)
@@ -27113,6 +27139,9 @@ com.sourcey.materiallogindemo.core.db.DbHelperSiswa:
     private static final java.lang.String card_code
     private static final java.lang.String nama
     private static final java.lang.String nis
+com.sourcey.materiallogindemo.core.retrofit.RetrofitClient:
+    11:11:public final java.lang.String getBaseUrl()
+    11:11:public final void setBaseUrl(java.lang.String)
 com.sourcey.materiallogindemo.core.service.AuthService:
     public abstract retrofit2.Call loginWithSosmed(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
 com.sourcey.materiallogindemo.databinding.ActivityAbsensiBinding:
@@ -27137,6 +27166,7 @@ com.sourcey.materiallogindemo.databinding.LayoutSiswaBinding:
 com.sourcey.materiallogindemo.databinding.LayoutTabunganBinding:
     51:51:public static com.sourcey.materiallogindemo.databinding.LayoutTabunganBinding inflate(android.view.LayoutInflater)
     18:18:public bridge synthetic android.view.View getRoot()
+com.sourcey.materiallogindemo.databinding.LayoutTesBinding
 com.sourcey.materiallogindemo.models.SiswaModels:
     6:6:public final void setCard_code(java.lang.String)
     6:6:public final void setId(int)
@@ -27168,9 +27198,6 @@ com.sourcey.tenant.core.helper.SessionManager:
     25:26:public final void setId(java.lang.String)
     43:44:public final void setInit(java.lang.String)
     13:13:public final void setSharedPreferences(android.content.SharedPreferences)
-com.sourcey.tenant.core.retrofit.RetrofitClient:
-    11:11:public final java.lang.String getBaseUrl()
-    11:11:public final void setBaseUrl(java.lang.String)
 com.squareup.picasso.Action
 com.squareup.picasso.Action$RequestWeakReference
 com.squareup.picasso.AssetRequestHandler

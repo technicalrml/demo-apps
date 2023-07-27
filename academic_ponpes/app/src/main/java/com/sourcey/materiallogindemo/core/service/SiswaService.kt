@@ -1,7 +1,7 @@
 package com.sourcey.materiallogindemo.core.service
 
 import android.app.Activity
-import com.sourcey.tenant.core.retrofit.RetrofitClient
+import com.sourcey.materiallogindemo.core.retrofit.RetrofitClient
 import okhttp3.ResponseBody
 import retrofit2.Call
 import retrofit2.http.GET

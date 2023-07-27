@@ -801,7 +801,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -1974,7 +1973,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -2722,7 +2720,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -3470,7 +3467,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -4218,7 +4214,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -4966,7 +4961,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -5714,7 +5708,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -6462,7 +6455,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -7210,7 +7202,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -7958,7 +7949,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -8706,7 +8696,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -9459,7 +9448,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -10207,7 +10195,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -10955,7 +10942,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -11703,7 +11689,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -12451,7 +12436,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -13199,7 +13183,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -13947,7 +13930,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -14695,7 +14677,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -15443,7 +15424,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -16191,7 +16171,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -16939,7 +16918,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -17687,7 +17665,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -18435,7 +18412,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -19183,7 +19159,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -19931,7 +19906,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -20679,7 +20653,6 @@
 0x7f06003a com.sourcey.materiallogindemo:dimen/_149sdp
 0x7f06003b com.sourcey.materiallogindemo:dimen/_14sdp
 0x7f06003c com.sourcey.materiallogindemo:dimen/_14ssp
-0x7f06003d com.sourcey.materiallogindemo:dimen/_150sdp
 0x7f06003e com.sourcey.materiallogindemo:dimen/_151sdp
 0x7f06003f com.sourcey.materiallogindemo:dimen/_152sdp
 0x7f060040 com.sourcey.materiallogindemo:dimen/_153sdp
@@ -21397,6 +21370,7 @@
 0x7f070026 com.sourcey.materiallogindemo:drawable/$mtrl_switch_thumb_unchecked_checked__0
 0x7f070027 com.sourcey.materiallogindemo:drawable/$mtrl_switch_thumb_unchecked_checked__1
 0x7f070028 com.sourcey.materiallogindemo:drawable/$mtrl_switch_thumb_unchecked_pressed__0
+0x7f070078 com.sourcey.materiallogindemo:drawable/academica_logo
 0x7f07007c com.sourcey.materiallogindemo:drawable/bottom_table
 0x7f070089 com.sourcey.materiallogindemo:drawable/com_facebook_button_background
 0x7f07008a com.sourcey.materiallogindemo:drawable/com_facebook_button_icon
@@ -21448,8 +21422,8 @@
 0x7f07010f com.sourcey.materiallogindemo:drawable/notification_template_icon_bg
 0x7f070110 com.sourcey.materiallogindemo:drawable/notification_template_icon_low_bg
 0x7f070111 com.sourcey.materiallogindemo:drawable/notification_tile_bg
-0x7f070115 com.sourcey.materiallogindemo:drawable/shape_button
-0x7f070117 com.sourcey.materiallogindemo:drawable/test_level_drawable
+0x7f070116 com.sourcey.materiallogindemo:drawable/shape_button
+0x7f070118 com.sourcey.materiallogindemo:drawable/test_level_drawable
 0x7f0700a5 com.sourcey.materiallogindemo:drawable/common_google_signin_btn_text_dark_normal
 0x7f0700a7 com.sourcey.materiallogindemo:drawable/common_google_signin_btn_text_disabled
 0x7f0700aa com.sourcey.materiallogindemo:drawable/common_google_signin_btn_text_light_normal
@@ -21923,38 +21897,39 @@
 0x7f0b0035 com.sourcey.materiallogindemo:layout/design_navigation_menu
 0x7f0b0036 com.sourcey.materiallogindemo:layout/design_navigation_menu_item
 0x7f0b003a com.sourcey.materiallogindemo:layout/dp_example
-0x7f0b003e com.sourcey.materiallogindemo:layout/m3_alert_dialog
-0x7f0b003f com.sourcey.materiallogindemo:layout/m3_alert_dialog_actions
-0x7f0b0040 com.sourcey.materiallogindemo:layout/m3_alert_dialog_title
-0x7f0b0041 com.sourcey.materiallogindemo:layout/m3_auto_complete_simple_item
-0x7f0b0042 com.sourcey.materiallogindemo:layout/m3_side_sheet_dialog
-0x7f0b0062 com.sourcey.materiallogindemo:layout/mtrl_layout_snackbar
-0x7f0b0063 com.sourcey.materiallogindemo:layout/mtrl_layout_snackbar_include
-0x7f0b0064 com.sourcey.materiallogindemo:layout/mtrl_navigation_rail_item
-0x7f0b006d com.sourcey.materiallogindemo:layout/mtrl_picker_text_input_date
-0x7f0b006e com.sourcey.materiallogindemo:layout/mtrl_picker_text_input_date_range
-0x7f0b0071 com.sourcey.materiallogindemo:layout/notification_action
-0x7f0b0072 com.sourcey.materiallogindemo:layout/notification_action_tombstone
-0x7f0b0073 com.sourcey.materiallogindemo:layout/notification_media_action
-0x7f0b0074 com.sourcey.materiallogindemo:layout/notification_media_cancel_action
-0x7f0b0075 com.sourcey.materiallogindemo:layout/notification_template_big_media
-0x7f0b0076 com.sourcey.materiallogindemo:layout/notification_template_big_media_custom
-0x7f0b0077 com.sourcey.materiallogindemo:layout/notification_template_big_media_narrow
-0x7f0b0078 com.sourcey.materiallogindemo:layout/notification_template_big_media_narrow_custom
-0x7f0b0079 com.sourcey.materiallogindemo:layout/notification_template_custom_big
-0x7f0b007a com.sourcey.materiallogindemo:layout/notification_template_icon_group
-0x7f0b007b com.sourcey.materiallogindemo:layout/notification_template_lines_media
-0x7f0b007c com.sourcey.materiallogindemo:layout/notification_template_media
-0x7f0b007d com.sourcey.materiallogindemo:layout/notification_template_media_custom
-0x7f0b007e com.sourcey.materiallogindemo:layout/notification_template_part_chronometer
-0x7f0b007f com.sourcey.materiallogindemo:layout/notification_template_part_time
-0x7f0b0080 com.sourcey.materiallogindemo:layout/sdp_example
-0x7f0b0084 com.sourcey.materiallogindemo:layout/sp_example
-0x7f0b0085 com.sourcey.materiallogindemo:layout/ssp_example
+0x7f0b003e com.sourcey.materiallogindemo:layout/layout_tes
+0x7f0b003f com.sourcey.materiallogindemo:layout/m3_alert_dialog
+0x7f0b0040 com.sourcey.materiallogindemo:layout/m3_alert_dialog_actions
+0x7f0b0041 com.sourcey.materiallogindemo:layout/m3_alert_dialog_title
+0x7f0b0042 com.sourcey.materiallogindemo:layout/m3_auto_complete_simple_item
+0x7f0b0043 com.sourcey.materiallogindemo:layout/m3_side_sheet_dialog
+0x7f0b0063 com.sourcey.materiallogindemo:layout/mtrl_layout_snackbar
+0x7f0b0064 com.sourcey.materiallogindemo:layout/mtrl_layout_snackbar_include
+0x7f0b0065 com.sourcey.materiallogindemo:layout/mtrl_navigation_rail_item
+0x7f0b006e com.sourcey.materiallogindemo:layout/mtrl_picker_text_input_date
+0x7f0b006f com.sourcey.materiallogindemo:layout/mtrl_picker_text_input_date_range
+0x7f0b0072 com.sourcey.materiallogindemo:layout/notification_action
+0x7f0b0073 com.sourcey.materiallogindemo:layout/notification_action_tombstone
+0x7f0b0074 com.sourcey.materiallogindemo:layout/notification_media_action
+0x7f0b0075 com.sourcey.materiallogindemo:layout/notification_media_cancel_action
+0x7f0b0076 com.sourcey.materiallogindemo:layout/notification_template_big_media
+0x7f0b0077 com.sourcey.materiallogindemo:layout/notification_template_big_media_custom
+0x7f0b0078 com.sourcey.materiallogindemo:layout/notification_template_big_media_narrow
+0x7f0b0079 com.sourcey.materiallogindemo:layout/notification_template_big_media_narrow_custom
+0x7f0b007a com.sourcey.materiallogindemo:layout/notification_template_custom_big
+0x7f0b007b com.sourcey.materiallogindemo:layout/notification_template_icon_group
+0x7f0b007c com.sourcey.materiallogindemo:layout/notification_template_lines_media
+0x7f0b007d com.sourcey.materiallogindemo:layout/notification_template_media
+0x7f0b007e com.sourcey.materiallogindemo:layout/notification_template_media_custom
+0x7f0b007f com.sourcey.materiallogindemo:layout/notification_template_part_chronometer
+0x7f0b0080 com.sourcey.materiallogindemo:layout/notification_template_part_time
+0x7f0b0081 com.sourcey.materiallogindemo:layout/sdp_example
+0x7f0b0085 com.sourcey.materiallogindemo:layout/sp_example
+0x7f0b0086 com.sourcey.materiallogindemo:layout/ssp_example
 0x7f0b002c com.sourcey.materiallogindemo:layout/design_layout_snackbar
-0x7f0b0062 com.sourcey.materiallogindemo:layout/mtrl_layout_snackbar
+0x7f0b0063 com.sourcey.materiallogindemo:layout/mtrl_layout_snackbar
 0x7f0b0031 com.sourcey.materiallogindemo:layout/design_navigation_item
-0x7f0b003f com.sourcey.materiallogindemo:layout/m3_alert_dialog_actions
+0x7f0b0040 com.sourcey.materiallogindemo:layout/m3_alert_dialog_actions
 0x7f0f0000 com.sourcey.materiallogindemo:plurals/mtrl_badge_content_description
 0x7f0f0000 com.sourcey.materiallogindemo:plurals/mtrl_badge_content_description
 0x7f0f0000 com.sourcey.materiallogindemo:plurals/mtrl_badge_content_description

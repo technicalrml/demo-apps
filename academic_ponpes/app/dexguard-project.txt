@@ -1,5 +1,14 @@
 -verbose
 
+-assumenosideeffects class android.util.Log {
+    public static boolean isLoggable(java.lang.String, int);
+    public static int v(...);
+    public static int i(...);
+    public static int w(...);
+    public static int d(...);
+    public static int e(...);
+}
+
 -encryptclasses com.google.android.gms.internal.firebase-auth-api.zzoh
 -encryptclasses com.google.android.gms.internal.firebase-auth-api.zzacs
 -encryptclasses com.google.android.gms.measurement.internal.zzln
@@ -36,6 +45,31 @@
 -encryptclasses retrofit2.**
 -encryptclasses okio.**
 
+-encryptclasses androidx.fragment.app.Fragment
+-encryptclasses androidx.fragment.app.Fragment$1
+-encryptclasses androidx.fragment.app.Fragment$2
+-encryptclasses androidx.fragment.app.Fragment$3
+-encryptclasses androidx.fragment.app.Fragment$4
+-encryptclasses androidx.fragment.app.Fragment$AnimationInfo
+-encryptclasses androidx.fragment.app.Fragment$Api19Impl
+-encryptclasses androidx.fragment.app.Fragment$InstantiationException
+-encryptclasses androidx.fragment.app.Fragment$OnPreAttachedListener
+
+
+-encryptclasses androidx.concurrent.futures.AbstractResolvableFuture
+-encryptclasses androidx.concurrent.futures.AbstractResolvableFuture$1
+-encryptclasses androidx.concurrent.futures.AbstractResolvableFuture$AtomicHelper
+-encryptclasses androidx.concurrent.futures.AbstractResolvableFuture$Cancellation
+-encryptclasses androidx.concurrent.futures.AbstractResolvableFuture$Failure
+-encryptclasses androidx.concurrent.futures.AbstractResolvableFuture$Failure$1
+-encryptclasses androidx.concurrent.futures.AbstractResolvableFuture$Listener
+-encryptclasses androidx.concurrent.futures.AbstractResolvableFuture$SafeAtomicHelper
+-encryptclasses androidx.concurrent.futures.AbstractResolvableFuture$SetFuture
+-encryptclasses androidx.concurrent.futures.AbstractResolvableFuture$SynchronizedHelper
+-encryptclasses androidx.concurrent.futures.AbstractResolvableFuture$Waiter
+-encryptclasses androidx.core.view.WindowInsetsCompat$Impl20
+
+
 #-encryptstrings com.google.android.gms.internal.measurement.zzoi
 #-encryptstrings com.google.android.gms.**
 #-encryptstrings androidx.**
@@ -59,14 +93,15 @@
     public static void throwIllegalState(...);
 }
 
--assumenosideeffects class android.util.Log {
-    public static boolean isLoggable(java.lang.String, int);
-    public static int v(...);
-    public static int i(...);
-    public static int w(...);
-    public static int d(...);
-    public static int e(...);
-}
 
 -encryptnativelibraries lib/**/**
 
+
+-obfuscatecode,high class com.sourcey.materiallogindemo.core.retrofit.RetrofitClient
+
+-encryptstrings class com.sourcey.materiallogindemo.core.retrofit.RetrofitClient{
+    final java.lang.String baseUrl;
+}
+
+-encryptresourcefiles res/values*/string.xml
+-encryptresourcefiles res/layout*/layout_tes.xml
