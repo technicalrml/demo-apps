@@ -9,7 +9,7 @@ import com.sourcey.materiallogindemo.adapter.AdapterAbsensi
 import com.sourcey.materiallogindemo.core.service.SiswaService
 import com.sourcey.materiallogindemo.databinding.ActivityAbsensiBinding
 import com.sourcey.materiallogindemo.models.AbsensiModels
-import com.sourcey.tenant.core.helper.Connection
+import com.sourcey.materiallogindemo.core.helper.Connection
 import okhttp3.ResponseBody
 import org.json.JSONArray
 import retrofit2.Call

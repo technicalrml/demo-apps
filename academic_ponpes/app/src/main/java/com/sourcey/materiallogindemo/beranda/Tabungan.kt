@@ -9,7 +9,7 @@ import com.sourcey.materiallogindemo.adapter.AdapterTabungan
 import com.sourcey.materiallogindemo.core.service.SiswaService
 import com.sourcey.materiallogindemo.databinding.ActivityTabunganBinding
 import com.sourcey.materiallogindemo.models.TabunganModels
-import com.sourcey.tenant.core.helper.Connection
+import com.sourcey.materiallogindemo.core.helper.Connection
 import okhttp3.ResponseBody
 import org.json.JSONArray
 import retrofit2.Call

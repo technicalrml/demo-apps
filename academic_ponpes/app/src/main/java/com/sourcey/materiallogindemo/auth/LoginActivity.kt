@@ -11,7 +11,7 @@ import com.sourcey.materiallogindemo.R
 import com.sourcey.materiallogindemo.core.service.AuthService
 import com.sourcey.materiallogindemo.databinding.ActivityLoginBinding
 import com.sourcey.materiallogindemo.siswa.SiswaActivity
-import com.sourcey.tenant.core.helper.Connection
+import com.sourcey.materiallogindemo.core.helper.Connection
 import com.sourcey.tenant.core.helper.SessionManager
 import com.facebook.*
 import com.facebook.login.BuildConfig
@@ -24,10 +24,6 @@ import com.google.android.gms.auth.api.signin.GoogleSignInOptions
 import com.google.android.gms.common.api.ApiException
 import com.google.android.gms.tasks.Task
 import com.google.firebase.auth.FirebaseAuth
-import okhttp3.ResponseBody
-import retrofit2.Call
-import retrofit2.Callback
-import retrofit2.Response
 
 
 class LoginActivity : AppCompatActivity(), View.OnClickListener {

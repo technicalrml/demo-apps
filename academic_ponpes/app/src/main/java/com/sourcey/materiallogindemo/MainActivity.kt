@@ -11,7 +11,7 @@ import com.sourcey.materiallogindemo.beranda.Absensi
 import com.sourcey.materiallogindemo.beranda.Tabungan
 import com.sourcey.materiallogindemo.core.service.SiswaService
 import com.sourcey.materiallogindemo.databinding.ActivityMainBinding
-import com.sourcey.tenant.core.helper.Connection
+import com.sourcey.materiallogindemo.core.helper.Connection
 import com.sourcey.tenant.core.helper.Currency
 import com.sourcey.tenant.core.helper.SessionManager
 import okhttp3.ResponseBody

@@ -1,4 +1,4 @@
-package com.sourcey.tenant.core.helper
+package com.sourcey.materiallogindemo.core.helper
 
 import android.content.Context
 import android.net.ConnectivityManager

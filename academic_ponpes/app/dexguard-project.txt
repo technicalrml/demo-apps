@@ -1,13 +1,5 @@
 -verbose
 
--assumenosideeffects class android.util.Log {
-    public static boolean isLoggable(java.lang.String, int);
-    public static int v(...);
-    public static int i(...);
-    public static int w(...);
-    public static int d(...);
-    public static int e(...);
-}
 
 -encryptclasses com.google.android.gms.internal.firebase-auth-api.zzoh
 -encryptclasses com.google.android.gms.internal.firebase-auth-api.zzacs
@@ -96,13 +88,43 @@
 
 -encryptnativelibraries lib/**/**
 
+# Remove all standard Android logging invocations.
+-assumenosideeffects class android.util.Log {
+    public static boolean isLoggable(java.lang.String, int);
+    public static int v(...);
+    public static int i(...);
+    public static int w(...);
+    public static int d(...);
+    public static int e(...);
+    public static java.lang.String getStackTraceString(java.lang.Throwable);
+}
 
--obfuscatecode,high class com.sourcey.materiallogindemo.core.retrofit.RetrofitClient
+# Remove all printing of stack traces.
+-assumenosideeffects class java.lang.Exception {
+    public void printStackTrace();
+}
 
--encryptstrings "https://www.urldummy.com/"
-
--encryptresourcefiles res/values*/string.xml
--encryptresourcefiles res/layout*/layout_tes.xml
-
--raspchecks virtualenvironment, emulator, root, hook
+-raspchecks virtualenvironment
+-raspchecks emulator
+-raspchecks root
+-raspchecks hook
+-raspchecks apptamper
+-raspchecks filetamper
+-raspchecks certificatetamper
+#-raspchecks debug
 -raspcontinueon none
+
+
+
+-encryptmetadata com.facebook.sdk.ApplicationId
+-encryptmetadata com.facebook.sdk.ClientToken
+-encryptmetadata com.facebook.FacebookActivity
+
+-virtualizecode class com.sourcey.materiallogindemo.core.helper.Connection{
+    public public java.lang.String[] isConnectionInternet();
+}
+
+
+
+
+
